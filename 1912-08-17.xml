@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title><!-- Jane Addams to Edith Abbott 17 August 1912: A TEI Edition (Jane Addams to Edith Abbott 8 August 1911: A TEI Edition) --></title>
+                <title>Jane Addams to Edith Abbott 17 August 1912: A TEI Edition (Jane Addams to Edith Abbott 8 August 1911: A TEI Edition)</title>
                 <author>
                     <orgName>Abbott/Addams Letter Digitization Project</orgName>
                 </author>
@@ -27,7 +27,7 @@
                <addrLine>Northeastern University</addrLine>
                <addrLine>Boston, MA 02115</addrLine>
             </address>
-                <date when="2018-04-27">27 April 2018<!-- Final publication date  --></date>
+                <date when="2018-04-27">27 April 2018</date>
                 <availability>
                     <p>This file is free to download, share, or repurpose for educational and
                         project development purposes.</p>
@@ -35,9 +35,9 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <author><!-- Jane Addams--></author>
-                    <title><!-- Jane Addams to Edith Abbott, 17 August 1912 --></title>
-                    <date when="1912-08-17"><!-- August 17, 1912--></date>
+                    <author>Jane Addams</author>
+                    <title>Jane Addams to Edith Abbott, 17 August 1912</title>
+                    <date when="1912-08-17">August 17, 1912</date>
                     <orgName>Edith and Grace Abbott, Papers (MS 129). Archives &#38; Special
                         Collections, University of Nebraska–Lincoln Libraries.</orgName>
                 </bibl>
@@ -46,10 +46,10 @@
         <profileDesc>
             <particDesc>
                 <person role="sender">
-                    <persName key="Addams, Jane"><!-- Jane Addams --></persName>
+                    <persName key="Addams, Jane">Jane Addams</persName>
                 </person>
                 <person role="recipient">
-                    <persName key="Abbott, Edith"><!-- Edith Abbott --></persName>
+                    <persName key="Abbott, Edith">Edith Abbott</persName>
                 </person>
             </particDesc>
             <handNotes>
@@ -67,8 +67,8 @@
                 <dateline>
                     <date when="1912-08-17">August 17 1912</date>
                     <handShift new="#h1"/>
-                    <name><!-- Baymeath,--></name>
-                    <name><!-- Bar Harbor, Maine. --></name>                    
+                    <name>Baymeath,</name>
+                    <name>Bar Harbor, Maine.</name>                    
                 </dateline>
                 <salute>Dear <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_edith_abbott">Miss Abbott,</persName></salute>
             </opener>
