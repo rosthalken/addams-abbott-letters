@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jane Addams to Edith Abbott 20 June 1913: A TEI Edition</title>
+                <author>
+                    <orgName>Abbott/Addams Letter Digitization Project</orgName>
+                </author>
+                <editor>
+                    <name xml:id="eb">Emily Benes</name>
+                    <name xml:id="ch">Caitlin Henry</name>
+                    <name xml:id="sl">Seolha Lee</name>
+                    <name xml:id="rt">Rosamond Thalken</name>
+                </editor>
+                                
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>the TEI Archiving, Publishing, and Access Service (TAPAS)</orgName>
+                </publisher>
+                <address>
+               <addrLine>360 Huntington Avenue</addrLine>
+               <addrLine>Northeastern University</addrLine>
+               <addrLine>Boston, MA 02115</addrLine>
+            </address>
+                <date when="2018-04-27">27 April 2018</date>
+                <availability>
+                    <p>This file is free to download, share, or repurpose for educational and
+                        project development purposes.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Jane Addams</author>
+                    <title>Jane Addams to Edith Abbott, 20 June 1913</title>
+                    <date when="1913-06-20">June 20, 1913</date>
+                    <orgName>Edith and Grace Abbott, Papers (MS 129). Archives &#38; Special
+                        Collections, University of Nebraska–Lincoln Libraries.</orgName>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="sender">
+                    <persName key="Addams, Jane">Jane Addams</persName>
+                </person>
+                <person role="recipient">
+                    <persName key="Abbott, Edith">Edith Abbott</persName>
+                </person>
+            </particDesc>
+            <handNotes>
+                <handNote xml:id="h1" medium="typescript"/>
+                <handNote xml:id="h2" medium="black-ink"/>
+                <handNote xml:id="h3" medium="pencil"/>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1" facs="20Jun1913a.jpg"/>
+           
+            <opener>
+                <handShift new="#h1"/>
+                <dateline>
+                    <name>Grand Hotel Hungaria</name>
+                    <name>Budapest (Hongrie)</name>
+                    <name>Burger &#38; Wonke directeurs</name>
+                    
+                </dateline>
+                <salute><handShift new="h3"/>Dear <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_edith_abbott">Miss Abbott</persName>,</salute>
+            </opener>
+            <p>I was most grateful for the clippings, and felt much more free when called upon to explain the <unclear reason="illegible" cert="medium" resp="#ch">letters</unclear>, as I am constantly. </p>
+            <p>We are having a very <unclear cert="medium" resp="#ch">imposing</unclear> convention, what<gap reason="illegible" resp="#ch"/> for <gap reason="illegible" resp="#ch"/> the city it is said. </p>
+                <p>I will be home I hope July 3d, so here's to you until then!
+            </p>
+           
+            <closer>
+                <salute> Always <unclear reason="illegible" resp="#ch">yrs</unclear> </salute>
+                <signed>
+                    <persName>Jane Addams.</persName>
+                    <date when="1913-06-20">June 20 1913</date>
+                </signed>
+            </closer>
+
+            <pb n="2" facs="20Jun1913b.jpg"/>
+        </body>
+    </text>
+</TEI>

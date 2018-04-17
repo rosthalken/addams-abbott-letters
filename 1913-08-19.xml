@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jane Addams to Edith Abbott 19 August 1913: A TEI Edition</title>
+                <author>
+                    <orgName>Abbott/Addams Letter Digitization Project</orgName>
+                </author>
+                <editor>
+                    <name xml:id="eb">Emily Benes</name>
+                    <name xml:id="ch">Caitlin Henry</name>
+                    <name xml:id="sl">Seolha Lee</name>
+                    <name xml:id="rt">Rosamond Thalken</name>
+                </editor>
+                                
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>the TEI Archiving, Publishing, and Access Service (TAPAS)</orgName>
+                </publisher>
+                <address>
+               <addrLine>360 Huntington Avenue</addrLine>
+               <addrLine>Northeastern University</addrLine>
+               <addrLine>Boston, MA 02115</addrLine>
+            </address>
+                <date when="2018-04-27">27 April 2018</date>
+                <availability>
+                    <p>This file is free to download, share, or repurpose for educational and
+                        project development purposes.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Jane Addams</author>
+                    <title>Jane Addams to Edith Abbott, 19 Aug 1913</title>
+                    <date when="1913-08-19">August 19, 1913</date>
+                    <orgName>Edith and Grace Abbott, Papers (MS 129). Archives &#38; Special
+                        Collections, University of Nebraska–Lincoln Libraries.</orgName>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="sender">
+                    <persName key="Addams, Jane">Jane Addams</persName>
+                </person>
+                <person role="recipient">
+                    <persName key="Abbott, Edith">Edith Abbott</persName>
+                </person>
+            </particDesc>
+            <handNotes>
+                <handNote xml:id="h1" medium="typescript"/>
+                <handNote xml:id="h2" medium="black-ink"/>
+                <handNote xml:id="h3" medium="pencil"/>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1" facs="19Aug1913a.jpg"/>
+           
+            <opener>
+                <handShift new="#h3"/>
+                <dateline>
+                    <name>Hulls Cove Main</name>
+                    <date when="1913-08-19">August 19 1913</date>
+                </dateline>
+                
+                <salute>My dear <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_edith_abbott">Miss Abbott</persName>,</salute>
+            </opener>
+            <p>We did not talk about the <choice><orig>inclosed</orig><reg>enclosed</reg></choice> clipping after all, but we must do it when you come up. I do hope that you and your sister are coming, it is worth making a real effort to <unclear reason="illegible" cert="high" resp="#ch">see</unclear> all of this beauty. We are going to be fuller in Sept. than in Aug. So please bring up “<gap reason="illegible" resp="#ch"/>. Abbott” as soon as she arrives. </p>
+                <p>Mary McDowell is resting 
+                
+                    <pb n="2" facs="19Aug1913b.jpg"/>
+                    <pb n="3" facs="19Aug1913c.jpg"/>
+                    
+                    and sleeping as is [] have the servants.</p>
+                    
+                   <p>It was fine to see you in Barton but I want the <gap reason="illegible" resp="#ch"/> to continue!</p>
+                    
+                    <p>Mary <gap reason="illegible" resp="#ch"/> and Mrs Brown send their love and many hospitable wishes.</p>
+                   
+           
+            <closer>
+                <salute> Always devotedly yours </salute>
+                <signed>
+                    <persName>Jane Addams.</persName>
+                </signed>
+            </closer>
+            <postscript>
+                <p>PS.</p>
+                <p>This pencil is due to outdoor writing.</p>
+            </postscript>
+                
+            <pb n="4" facs="19Aug1913d.jpg"/>
+        </body>
+    </text>
+</TEI>
