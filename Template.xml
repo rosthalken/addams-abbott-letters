@@ -16,14 +16,7 @@
                     <name xml:id="sl">Seolha Lee</name>
                     <name xml:id="rt">Rosamond Thalken</name>
                 </editor>
-                
-                <!-- Do we even want this? -->
-                <respStmt>
-                    <name><!-- responsible for task or role noted below -->Caitlin Henry</name>
-                    <resp><!-- description of task or role --></resp>
-                </respStmt>
-                
-                
+                           
             </titleStmt>
             <publicationStmt>
                 <publisher>
