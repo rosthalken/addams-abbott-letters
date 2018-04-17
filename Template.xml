@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><!-- Title of letter. Sender to Recipient DD Month YYYY: A TEI Edition (Jane Addams to Edith Abbott 8 August 1911: A TEI Edition) --></title>
+                <author>
+                    <orgName>Abbott/Addams Letter Digitization Project</orgName>
+                </author>
+                <editor>
+                    <name xml:id="eb">Emily Benes</name>
+                    <name xml:id="ch">Caitlin Henry</name>
+                    <name xml:id="sl">Seolha Lee</name>
+                    <name xml:id="rt">Rosamond Thalken</name>
+                </editor>
+                
+                <!-- Do we even want this? -->
+                <respStmt>
+                    <name><!-- responsible for task or role noted below -->Caitlin Henry</name>
+                    <resp><!-- description of task or role --></resp>
+                </respStmt>
+                
+                
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>the TEI Archiving, Publishing, and Access Service (TAPAS)</orgName>
+                </publisher>
+                <address>
+               <addrLine>360 Huntington Avenue</addrLine>
+               <addrLine>Northeastern University</addrLine>
+               <addrLine>Boston, MA 02115</addrLine>
+            </address>
+                <date when="2018-04-27">27 April 2018<!-- Final publication date  --></date>
+                <availability>
+                    <p>This file is free to download, share, or repurpose for educational and
+                        project development purposes.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author><!-- Jane Addams or Edith Abbott--></author>
+                    <title><!-- Sender to Recipient, DD Month YYYY --></title>
+                    <date when="1848-03-14"><!-- Month DD, YYYY--></date>
+                    <orgName>Edith and Grace Abbott, Papers (MS 129). Archives &#38; Special
+                        Collections, University of Nebraska–Lincoln Libraries.</orgName>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="sender">
+                    <persName key="Last, First"><!-- Firstname Lastname --></persName>
+                </person>
+                <person role="recipient">
+                    <persName key="Last, First"><!-- Firstname Lastname --></persName>
+                </person>
+            </particDesc>
+            <handNotes>
+                <handNote xml:id="h1" medium="typescript"/>
+                <handNote xml:id="h2" medium="black-ink"/>
+                <handNote xml:id="h3" medium="pencil"/>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1" facs="1911Aug08r.jpg"/>
+            <!-- change the page number and image name for each new image including blank versos -->
+
+            <opener>
+                <handShift new="#h1"/><!-- change the value of "new" to indicate which hand the document is starting with. If this changes, indicate with another <handShift> -->
+                <dateline>
+                    <name><!-- Baymeath, etc--></name>
+                    <name><!-- You can add as many of these as needed --></name>
+                    <date when="1911-08-08">August 8 1911</date>
+                </dateline>
+                <salute>My dear <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_edith_abbott">Miss Abbott,</persName></salute>
+            </opener>
+            <p>I have written to <persName>Prof Commons</persName> that you
+                will write him in regard to <persName>Miss Stewart</persName>. It
+                would be a fine opening for the right person.</p>
+            <p> Thank you so much for all the literature you have sent, the first draft of the book
+                is finished but I am too near to judge it.</p>
+            <p>
+                <!-- To indicate that a word or phrase is unclear, but you are providing a transcription, use the <unclear> tag. Specify your certainty with high medium or low and use your initials to indicate responsibility --><unclear reason="illegible" cert="high" resp="#ch"> </unclear>
+                <!-- To leave a gap when you have no idea what a word is, use the <gap> tag --> <gap reason="illegible" resp="#ch"/> 
+            </p>
+            <closer>
+                <salute> Always affectionately, </salute>
+                <signed>
+                    <persName>Mrs. Jane Addams.</persName>
+                </signed>
+            </closer>
+
+            <pb n="2" facs="1911Aug08v.jpg"/><!-- add new imageName -->
+        </body>
+    </text>
+</TEI>

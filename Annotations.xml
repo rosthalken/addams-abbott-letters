@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Abbott/Addams Letter Archive Personographies</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Abbott/Addams Letter Archive Group</publisher>
+                <availability>
+                    <ab> Freely available for download and redistribution for educational, non-commercial use. </ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    Born Digital. 
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+            <person xml:id="pers_edith_abbott"> 
+                <persName>Edith Abbott</persName>
+                <note>This is a note about Edith Abbott.</note>
+            </person>    
+                <person xml:id="pers_john_commons"> 
+                    <persName>John Commons</persName>
+                    <note>This is a note about Prof Commons.</note>
+                </person>  
+                <person xml:id="pers_ella_stewart"> 
+                    <persName>Ella Stewart</persName>
+                    <note>This is a note about Miss Stewart.</note>
+                </person>  
+                <person xml:id="pers_jane_addams"> 
+                    <persName>Jane Addams</persName>
+                    <note>This is a note about Jane Addams.</note>
+                </person>  
+            </listPerson>
+        </body>
+    </text>
+</TEI>

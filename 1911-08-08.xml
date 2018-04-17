@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jane Addams to Edith Abbott 8 August 1911: A TEI Edition</title>
+                <author>
+                    <orgName>Abbott/Addams Letter Digitization Project</orgName>
+                </author>
+                <editor>
+                    <name>Emily Benes</name>
+                    <name>Caitlin Henry</name>
+                    <name>Seolha Lee</name>
+                    <name>Rosamond Thalken</name>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>the TEI Archiving, Publishing, and Access Service (TAPAS)</orgName>
+                </publisher>
+                <address>
+               <addrLine>360 Huntington Avenue</addrLine>
+               <addrLine>Northeastern University</addrLine>
+               <addrLine>Boston, MA 02115</addrLine>
+            </address>
+                <date when="2018-04-27">27 April 2018</date>
+                <availability>
+                    <p>This file is free to download, share, or repurpose for educational and
+                        project development purposes.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Jane Addams</author>
+                    <title>Jane Addams to Edith Abbott, 08 August 1911</title>
+                    <date when="1911-08-08">August 8, 1911</date>
+                    <orgName>Edith and Grace Abbott, Papers (MS 129). Archives &#38; Special
+                        Collections, University of Nebraska–Lincoln Libraries.</orgName>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="sender">
+                    <persName key="Addams, Jane">Jane Addams</persName>
+                </person>
+                <person role="recipient">
+                    <persName key="Abbott, Edith">Edith Abbott</persName>
+                </person>
+            </particDesc>
+            <handNotes>
+                <handNote xml:id="h1" medium="typescript"/>
+                <handNote xml:id="h2" medium="black-ink"/>
+                <handNote xml:id="h3" medium="pencil"/>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1" facs="08Aug1911a.jpg"/>
+            
+            <opener>
+                <handShift new="#h2"/>
+                <dateline>
+                    <date when="1911-08-08">August 8 1911</date>
+                    <handShift new="h1"/>
+                    <name>Baymeath</name>
+                    <name>Bar Harbor, Maine.</name>
+                </dateline>
+                <handShift new="h2"/>
+                <salute>My dear <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_edith_abbott">Miss Abbott,</persName></salute>
+            </opener>
+            <p>I have written to <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_john_commons">Prof Commons</persName> that you
+                will write him in regard to <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_ella_stewart">Miss Stewart</persName>. It
+                would be a fine opening for the right person.</p>
+            <p> Thank you so much for all the literature you have sent, the first draft of the book
+                is finished but I am too near to judge it.</p>
+            <closer>
+                <salute> Always affectionately, </salute>
+                <signed>
+                    <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_jane_addams">Mrs. Jane Addams.</persName>
+                </signed>
+            </closer>
+
+            <pb n="2" facs="08Aug1911b.jpg"/>
+        </body>
+    </text>
+</TEI>
