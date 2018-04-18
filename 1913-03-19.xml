@@ -64,7 +64,7 @@
             <pb n="1" facs="1913Mar19a.jpg"/>
             
             <opener>
-                <handShift new="h1"/>
+                <handShift new="#h1"/>
                 <dateline>
                     <name>CATARACT HOTEL</name>
                     <name>ASSOUAN</name>
@@ -77,26 +77,28 @@
                     <name>LUXOR WINTER PALACE</name>
                     <name>LUXOR HOTEL</name>
                     <name>KARNAK HOTEL</name>
-                    <handShift new="h3"/>
-                    <date when="1913-03-19">March 19 1913</date>
+                    <handShift new="#h3"/>
+                    <date when="1913-03-19">March 19" 1913</date>
                 </dateline>
                 <salute>My dear <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_edith_abbott">Miss Abbott</persName></salute>
             </opener>
-            <p>We ar perfectly en-
-                tranced with Upper Egypt. It
+            <p><cb n = "1"/>
+                We ar perfectly entranced 
+                with Upper Egypt. It
                 isn't too warm and it is the 
                 most picturesque place in the 
-                world. I am sending <unclear reason="illegible" cert="medium" resp="sl">you</unclear> the two old  
-                methods of <gap reason="illegible" resp="sl"/> which of course
+                world. I am sending <unclear reason="illegible" cert="medium" resp="#sl">you</unclear> the two old  
+                methods of <gap reason="illegible" resp="#sl"/> which of course
                 you know, but these wonderful things
                 the Egyptians are doing in reclaiming 
                 the land give me new thoughts on
-                the Imperialistic schemes in 
-                spite of the <gap reason="illegible" resp="sl"/> <unclear reason="illegible" cert="medium" resp="sl">which for your use</unclear>
+                the Imperialistic schemes in spite 
+                <cb n = "2"/>
+                of the <gap reason="illegible" resp="#sl"/> <unclear reason="illegible" cert="medium" resp="#sl">which for your use</unclear>
                 and which I read on the way with
                 the purest interest.</p> 
             <p>Will you please excuse this
-                penciled note, and <gap reason="illegible" resp="sl"/> <unclear reason="illegible" cert="medium" resp="sl">use</unclear></p>
+                penciled note, and <gap reason="illegible" resp="#sl"/> <unclear reason="illegible" cert="medium" resp="#sl">use</unclear></p>
             <closer>
                 <salute> Always devotedly yours</salute>
                 <signed>
@@ -106,9 +108,9 @@
             <postscript>
                 <label>P.S.</label>
                 <p>We are delayed here for several 
-                days away to us thyme <gap reason="illegible" resp="sl"/> of 
+                days away to us thyme <gap reason="illegible" resp="#sl"/> of 
                 <persName>Mary's</persName>. but it an interesting spot
-                to see with its <gap reason="illegible" resp="sl"/> <gap reason="illegible" resp="sl"/>.</p>
+                to see with its <gap reason="illegible" resp="#sl"/> <gap reason="illegible" resp="#sl"/>.</p>
             </postscript>
             <pb n="2" facs="1913Mar19b.jpg"/>
         </body>
