@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jane Addams to Edith Abbott 19 March 1913: A TEI Edition (Jane Addams to Edith Abbott 19 March 1913: A TEI Edition)</title>
+                <author>
+                    <orgName>Abbott/Addams Letter Digitization Project</orgName>
+                </author>
+                <editor>
+                    <name xml:id="eb">Emily Benes</name>
+                    <name xml:id="ch">Caitlin Henry</name>
+                    <name xml:id="sl">Seolha Lee</name>
+                    <name xml:id="rt">Rosamond Thalken</name>
+                </editor>
+                
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>the TEI Archiving, Publishing, and Access Service (TAPAS)</orgName>
+                </publisher>
+                <address>
+               <addrLine>360 Huntington Avenue</addrLine>
+               <addrLine>Northeastern University</addrLine>
+               <addrLine>Boston, MA 02115</addrLine>
+            </address>
+                <date when="2018-04-27">27 April 2018</date>
+                <availability>
+                    <p>This file is free to download, share, or repurpose for educational and
+                        project development purposes.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Jane Addams</author>
+                    <title>Jane Addams to Edith Abbott, 19 March 1913</title>
+                    <date when="1913-03-19">March 19, 1913</date>
+                    <orgName>Edith and Grace Abbott, Papers (MS 129). Archives &#38; Special
+                        Collections, University of Nebraska–Lincoln Libraries.</orgName>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="sender">
+                    <persName key="Addams, Jane">Jane Addams</persName>
+                </person>
+                <person role="recipient">
+                    <persName key="Abbott, Edith">Edith Abbott</persName>
+                </person>
+            </particDesc>
+            <handNotes>
+                <handNote xml:id="h1" medium="typescript"/>
+                <handNote xml:id="h2" medium="black-ink"/>
+                <handNote xml:id="h3" medium="pencil"/>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1" facs="1913Mar19a.jpg"/>
+            
+            <opener>
+                <handShift new="h1"/>
+                <dateline>
+                    <name>CATARACT HOTEL</name>
+                    <name>ASSOUAN</name>
+                    <name>THE UPPER EGYPT HOTELS COY</name>
+                    <name>ASSOUAN</name>
+                    <name>CATARACT HOTE</name>
+                    <name>SAVOY HOTEL</name>
+                    <name>GRAND HOTEL ASSOUAN</name>
+                    <name>LUXOR</name>
+                    <name>LUXOR WINTER PALACE</name>
+                    <name>LUXOR HOTEL</name>
+                    <name>KARNAK HOTEL</name>
+                    <handShift new="h3"/>
+                    <date when="1913-03-19">March 19 1913</date>
+                </dateline>
+                <salute>My dear <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_edith_abbott">Miss Abbott</persName></salute>
+            </opener>
+            <p>We ar perfectly en-
+                tranced with Upper Egypt. It
+                isn't too warm and it is the 
+                most picturesque place in the 
+                world. I am sending <unclear reason="illegible" cert="medium" resp="sl">you</unclear> the two old  
+                methods of <gap reason="illegible" resp="sl"/> which of course
+                you know, but these wonderful things
+                the Egyptians are doing in reclaiming 
+                the land give me new thoughts on
+                the Imperialistic schemes in 
+                spite of the <gap reason="illegible" resp="sl"/> <unclear reason="illegible" cert="medium" resp="sl">which for your use</unclear>
+                and which I read on the way with
+                the purest interest.</p> 
+            <p>Will you please excuse this
+                penciled note, and <gap reason="illegible" resp="sl"/> <unclear reason="illegible" cert="medium" resp="sl">use</unclear></p>
+            <closer>
+                <salute> Always devotedly yours</salute>
+                <signed>
+                    <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_jane_addams">Jane Addams</persName>
+                </signed>
+            </closer>
+            <postscript>
+                <label>P.S.</label>
+                <p>We are delayed here for several 
+                days away to us thyme <gap reason="illegible" resp="sl"/> of 
+                <persName>Mary's</persName>. but it an interesting spot
+                to see with its <gap reason="illegible" resp="sl"/> <gap reason="illegible" resp="sl"/>.</p>
+            </postscript>
+            <pb n="2" facs="1913Mar19b.jpg"/>
+        </body>
+    </text>
+</TEI>
