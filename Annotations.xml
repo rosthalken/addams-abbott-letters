@@ -25,8 +25,12 @@
             <listPerson>
             <person xml:id="pers_edith_abbott"> 
                 <persName>Edith Abbott</persName>
-                <note>This is a note about Edith Abbott.</note>
-            </person>    
+                <note>Edith Abbott was born on September 26, 1876 in Grand Island, Nebraska, into a politically and socially active Nebraskan family. After receiving a degree at the University of Nebraska, Edith attended the University of Chicago on a fellowship to study political economy. In 1905, she obtained her doctoral degree and spent multiple years at the University College London studying social economics and welfare. She returned to the United States to continue a successful career of teaching and researching social welfare alongside Grace Abbott, Sophonisba Breckinridge, and other women at Jane Addams’ Hull House. Abbott’s work focused on social statistics as a methodology to look critically at women’s rights, child labor, immigration, and public welfare. She was promoted to Dean of the University of Chicago’s School of Social Service Administration in 1924, and held that position until retiring in 1942. </note>
+            </person>  
+                <person xml:id="pers_grace_abbott"> 
+                    <persName>Grace Abbott</persName>
+                    <note>Grace Abbott, sister of Edith Abbott, was born to an influential family in Grand Island, Nebraska on November 17, 1878. After several years of teaching high school in Grand Island and receiving a degree at the University of Nebraska, Grace moved to Chicago to join her sister at Jane Addams’ Hull House. She became increasingly involved in social reform regarding immigrant rights, child labor laws, and women’s rights. In 1917, Abbott moved to Washington D.C. where she quickly became the director of the Child Labor Division of the Children’s Bureau in 1917. She led the Bureau until her health began to fail and she returned to Chicago to live with Edith in 1934. Though undergoing continued poor health, Grace continued her involvement in the Social Security Administration until her death in 1939.</note>
+                </person>
                 <person xml:id="pers_john_commons"> 
                     <persName>John Commons</persName>
                     <note>This is a note about Prof Commons.</note>
@@ -37,8 +41,16 @@
                 </person>  
                 <person xml:id="pers_jane_addams"> 
                     <persName>Jane Addams</persName>
-                    <note>This is a note about Jane Addams.</note>
-                </person>  
+                    <note>Jane Addams was born on September 6, 1860 in Cedarville, Illinois in a wealthy family. She received the bachelor's degree from Rockford College for Women in 1882. She studied medicine at the Woman's Medical College of Philadelphiai, but completed only one year due to her poor health. Inspired from her visit to Toynbee Hall, a settlement house in London, she co-founded Hull House with Ellen Gates Starr in 1889 to help immigrants in Chicago. Addams was actively engaged in woman suffrage and international peace movement serving as an officer in the National American Woman's Suffrage Association and leading organizations such as Women's Peace Party, the International Congress of Women and the Women's International League for Peace and Freedom. She was awarded the Nobel Peace Prize at the age of 71. Addams died of cancer in 1935. </note>
+                </person>
+                <person xml:id="pers_mary_mcdowell">
+                    <persName>Mary McDowell</persName>
+                    <note>Mary McDowell, born on November 20, 1854, was involved in relief and aid in Chicago for the entirety of her career, beginning with the Great Chicago Fire of 1871. After teaching kindergarten at Hull House under the supervision of Jane Addams, McDowell opened the Chicago Settlement House in 1894 where she improved living conditions and educational opportunities for immigrant families. She later became interested in waste disposal programs, earning the nickname “The Garbage Lady.” After a successful career, McDowell retired at 75 and later died in 1936.</note>
+                </person>
+                <person xml:id="pers_sophonisba_breckinridge"> 
+                    <persName>Sophonisba Breckinridge</persName>
+                    <note>Shophonisba Breckinridge was born on April 1, 1866 in Lexington Kentucky to a prominent family. After passing the Kentucky bar exam, Breckinridge moved to Chicago to earn her Ph.D. in political science and economics. She then became an instructor and researcher of social reform and immigrant rights at the University of Chicago before becoming involved at Jane Addams’ Hull House where she met and began a collaborative relationship with Edith Abbott. Together, Abbott and Breckinridge established the Wendell Phillips Settlement House as well as the Social Service Review scholarly journal. Throughout her career, Breckinridge devoted her time to improving labor conditions, immigrant rights, women’s suffrage, and creating child labor laws before passing away at the age of 82. </note>
+                </person> 
             </listPerson>
         </body>
     </text>
