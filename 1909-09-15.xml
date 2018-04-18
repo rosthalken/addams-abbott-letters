@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jane Addams to Edith Abbott 15 September 1909: A TEI Edition</title>
+                <author>
+                    <orgName>Abbott/Addams Letter Digitization Project</orgName>
+                </author>
+                <editor>
+                    <name xml:id="eb">Emily Benes</name>
+                    <name xml:id="ch">Caitlin Henry</name>
+                    <name xml:id="sl">Seolha Lee</name>
+                    <name xml:id="rt">Rosamond Thalken</name>
+                </editor>
+                
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>the TEI Archiving, Publishing, and Access Service (TAPAS)</orgName>
+                </publisher>
+                <address>
+                    <addrLine>360 Huntington Avenue</addrLine>
+                    <addrLine>Northeastern University</addrLine>
+                    <addrLine>Boston, MA 02115</addrLine>
+                </address>
+                <date when="2018-04-27">27 April 2018<!-- Final publication date  --></date>
+                <availability>
+                    <p>This file is free to download, share, or repurpose for educational and
+                        project development purposes.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Jane Addams</author>
+                    <title>Jane Addams to Edith Abbott 15 September 1909: A TEI Edition</title>
+                    <date when="1909-09-15">September 15, 1909</date>
+                    <orgName>Edith and Grace Abbott, Papers (MS 129). Archives &#38; Special
+                        Collections, University of Nebraska–Lincoln Libraries.</orgName>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="sender">
+                    <persName key="Addams, Jane">Jane Addams</persName>
+                </person>
+                <person role="recipient">
+                    <persName key="Abbott, Edith">Edith Abbott</persName>
+                </person>
+            </particDesc>
+            <handNotes>
+                <handNote xml:id="h1" medium="typescript"/>
+                <handNote xml:id="h2" medium="black-ink"/>
+                <handNote xml:id="h3" medium="pencil"/>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1" facs="1909Sep15a.jpg"/> 
+            <opener>
+                <handShift new="#h1"/>
+                <dateline>
+                    <date when="1909-09-15">Sept 15"</date>
+                    <name>Baymeath</name>
+                    <name>Bar Harbor, Maine</name>
+                </dateline>
+                <salute>My dear <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_edith_abbott">Miss Abbott,</persName></salute>
+            </opener>
+            <p>I am very grateful for all your letter writing 
+                and all the other things you are doing. 
+                I haven't heard again from <persName>Mr. <unclear reason="illegible" cert="low" resp="#rt">Smith</unclear></persName>,
+                but I wrote in reply to his first letter that I thought it was hardly fair for </p>
+            <pb n="2" facs="1909Sep15b.jpg"/>
+            <p><persName>Mr Anderson</persName> as a new man to take a court room if any of the older residents
+                wanted it. If Mr Anderson takes a third room <unclear reason="illegible" cert="medium" resp="#rt">also</unclear> where he 
+                and <persName>Mr. <unclear reason="illegible" cert="low" resp="#ch">Smith</unclear></persName> would still have two court rooms. <persName>Mr. Lucas</persName><gap reason="illegible" resp="#rt"/>
+                has been a very good resident and I think deserves this room. I hope that the <persName>Prison Congress</persName></p>
+            <pb n="3" facs="1909Sep15b.jpg"/>
+                    <!--how to show that the '3rd page' is on the same paper-->
+            <p> people <unclear reason="illegible" cert="high" resp="#ch">hasn't</unclear> 
+                overwhelmed you before I get back to do my share.</p>
+           
+            <closer>
+                <salute> Sincerely Yours, </salute>
+                <signed>
+                    <persName>Jane Addams</persName>
+                </signed>
+            </closer>
+                <postscript>
+                    <p>P.S.</p>
+                    <p>Has there been a letter for me asking me to deliver an address before the 
+                    <persName>Philosophical Union</persName> in California next summer?</p>
+                </postscript>
+        </body>
+    </text>
+</TEI>
