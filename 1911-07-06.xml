@@ -79,6 +79,7 @@
             <pb n="3" facs="1911Jul06c.jpg"/>
             <p>absolutely ashamed to be in this cool place. </p>
             <p>I am enclosing a letter from <persName>Mrs Shankle</persName> received today. She is attractive in spite of all her queerness. Don't bother to read it if you are busy.</p>
+            <!-- Add xml:ids when annotation file is ready CH -->
             <closer>
                 <salute> Always affectionately yours. </salute>
                 <signed>
