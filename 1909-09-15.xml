@@ -66,16 +66,20 @@
                 <handShift new="#h2"/>
                 <dateline>
                     <date when="1909-09-15">Sept 15"</date>
-                    <name>Baymeath,</name>
+                    <name><handShift new="#h1"/>Baymeath,</name><!-- added <handShift> for typed address CH-->
                     <name>Bar Harbor, Maine.</name>
                 </dateline>
-                <salute>My dear <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_edith_abbott">Miss Abbott,</persName></salute>
+                <salute><handShift new="#h2"/><!-- added <handShift> back to pen CH -->My dear <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_edith_abbott">Miss Abbott</persName>,</salute>
             </opener>
             <p>I am very grateful for all your letter writing and all the other things you are doing. I haven't heard again from <persName>Mr. <unclear reason="illegible" cert="low" resp="#rt">Smoot</unclear></persName>, but I wrote in reply to his first letter that I thought it was hardly fair for </p>
-            <pb n="2" facs="1909Sep15b.jpg"/>
+            <pb n="2" facs="1909Sep15b.jpg"/><!-- This image will be of the complete verso CH -->
+            <pb n="3" facs="1909Sep15c.jpg"/> <!-- This will be a crop of the verso that only shows the half with writing CH -->
+            
+            <!-- Reminder: add xml:id's to persNames (and other annotations) once we finalize the Annotations file CH -->
+            
             <p><persName>Mr Anderson</persName> as a new man to take a court room if any of the older residentswanted it. If <persName>Mr Anderson</persName> takes a third room <unclear reason="illegible" cert="medium" resp="#rt">also</unclear> when he and <persName>Mr. <unclear reason="illegible" cert="low" resp="#rt">Smoot</unclear></persName> would still have two court rooms. <persName>Mr. Lucas</persName><gap reason="illegible" resp="#rt"/> has been a very good resident and I think deserves this room. </p>
             <p>I hope that the <persName>Prison Congress</persName></p>
-            <pb n="3" facs="1909Sep15b.jpg"/>
+            <pb n="3" facs="1909Sep15d.jpg"/> <!-- cropped image of verso CH -->
                     <!--how to show that the '3rd page' is on the same paper?-->
             <p> people <unclear reason="illegible" cert="high" resp="#rt">hasn't</unclear><unclear reason="illegible" cert="medium" resp="#rt">overwhelmed</unclear> you before I get back to do my share.</p>
             <closer>
