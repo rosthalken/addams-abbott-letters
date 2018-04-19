@@ -54,7 +54,12 @@
                 <person xml:id="lucius-carter-lucas">
                     <persName>Lucius Carter Lucas</persName>
                     <note>Lucius Carter Lucas, born in 1888, was a resident at Hull House for an undisclosed period of time around 1909.</note>
-            </listPerson>
+                </person>
+                <person xml:id="charles-hutchinson">
+                    <persName>Charles Hutchinson</persName>
+                    <note>Charles L. Hutchinson was an important businessman, banker, and philanthropist in Chicago from the early 1860’s until his death in 1924. He is most well-known for his work founding and presiding over the Art Institute of Chicago, but was also involved with the Chicago Sanitary District Board, the Chicago orphan asylum, and served as treasurer at Hull House. Though Hutchinson technically never received a college education, Hutchinson is likely referred to as “Prof. Hutchinson” in this letter because he was founding trustee and treasurer of the University of Chicago and received multiple honorary degrees for his involvement in the Arts.</note>
+                </person>
+           </listPerson>
         </body>
     </text>
 </TEI>
