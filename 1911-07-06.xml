@@ -64,29 +64,25 @@
             <pb n="1" facs="1911Jul06a.jpg"/>
            
             <opener>
-                <handShift new="#h1"/>
+                <handShift new="#h2"/>
                 <dateline>
                     <date when="1911-07-06">July 6-</date>
                     <name>Hulls Cove</name>
                     <name>Maine.</name>
                 </dateline>
-                <salute>My dear <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_edith_abbott">Miss Abbott &#8212;</persName></salute>
+                <salute>My dear <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_edith_abbott">Miss Abbott</persName> &#8212;</salute>
             </opener>
-            <p>Here is the <persName>Educational Aid Society</persName> at it again. I am sending it
-                on to you merely as data in what may prove an interesting case. </p>
-            <p>I hope you are still alive in <!--is there a marker for scribbled other than unclear? --> 
-            spite of the dreadful heat. I am </p>
+            <p>Here is the <persName>Educational Aid Society</persName> at it again. I am sending it on to you merely as data in what may prove an interesting case. </p>
+            <p>I hope you are all still alive in spite of the dreadful heat. I am </p>
             
             <pb n="2" facs="1911Jul06b.jpg"/>
             <pb n="3" facs="1911Jul06c.jpg"/>
             <p>absolutely ashamed to be in this cool place. </p>
-            <p>I am enclosing a letter from <persName>Mrs Shankle</persName> received today.
-                She is attractive in spite of all her queerness. Don't bother to read if you are busy.</p>
-           
+            <p>I am enclosing a letter from <persName>Mrs Shankle</persName> received today. She is attractive in spite of all her queerness. Don't bother to read it if you are busy.</p>
             <closer>
                 <salute> Always affectionately yours. </salute>
                 <signed>
-                    <persName>Jane Addams.</persName>
+                    <persName>Jane Addams</persName>
                 </signed> 
             </closer>
             <postscript>
