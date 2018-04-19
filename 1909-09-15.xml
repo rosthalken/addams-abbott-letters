@@ -27,7 +27,7 @@
                     <addrLine>Northeastern University</addrLine>
                     <addrLine>Boston, MA 02115</addrLine>
                 </address>
-                <date when="2018-04-27">27 April 2018<!-- Final publication date  --></date>
+                <date when="2018-04-27">27 April 2018</date>
                 <availability>
                     <p>This file is free to download, share, or repurpose for educational and
                         project development purposes.</p>
@@ -36,7 +36,7 @@
             <sourceDesc>
                 <bibl>
                     <author>Jane Addams</author>
-                    <title>Jane Addams to Edith Abbott 15 September 1909: A TEI Edition</title>
+                    <title>Jane Addams to Edith Abbott 15 September 1909</title>
                     <date when="1909-09-15">September 15, 1909</date>
                     <orgName>Edith and Grace Abbott, Papers (MS 129). Archives &#38; Special
                         Collections, University of Nebraska–Lincoln Libraries.</orgName>
@@ -63,30 +63,31 @@
         <body>
             <pb n="1" facs="1909Sep15a.jpg"/> 
             <opener>
-                <handShift new="#h1"/>
+                <handShift new="#h2"/>
                 <dateline>
                     <date when="1909-09-15">Sept 15"</date>
-                    <name>Baymeath</name>
-                    <name>Bar Harbor, Maine</name>
+                    <name>Baymeath,</name>
+                    <name>Bar Harbor, Maine.</name>
                 </dateline>
                 <salute>My dear <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_edith_abbott">Miss Abbott,</persName></salute>
             </opener>
             <p>I am very grateful for all your letter writing 
                 and all the other things you are doing. 
-                I haven't heard again from <persName>Mr. <unclear reason="illegible" cert="low" resp="#rt">Smith</unclear></persName>,
+                I haven't heard again from <persName>Mr. <unclear reason="illegible" cert="low" resp="#rt">Smoot</unclear></persName>,
                 but I wrote in reply to his first letter that I thought it was hardly fair for </p>
             <pb n="2" facs="1909Sep15b.jpg"/>
             <p><persName>Mr Anderson</persName> as a new man to take a court room if any of the older residents
-                wanted it. If Mr Anderson takes a third room <unclear reason="illegible" cert="medium" resp="#rt">also</unclear> where he 
-                and <persName>Mr. <unclear reason="illegible" cert="low" resp="#ch">Smith</unclear></persName> would still have two court rooms. <persName>Mr. Lucas</persName><gap reason="illegible" resp="#rt"/>
-                has been a very good resident and I think deserves this room. I hope that the <persName>Prison Congress</persName></p>
+                wanted it. If <persName>Mr Anderson</persName> takes a third room <unclear reason="illegible" cert="medium" resp="#rt">also</unclear> when he 
+                and <persName>Mr. <unclear reason="illegible" cert="low" resp="#rt">Smoot</unclear></persName> would still have two court rooms. <persName>Mr. Lucas</persName><gap reason="illegible" resp="#rt"/>
+                has been a very good resident and I think deserves this room. </p>
+                <p>I hope that the <persName>Prison Congress</persName></p>
             <pb n="3" facs="1909Sep15b.jpg"/>
-                    <!--how to show that the '3rd page' is on the same paper-->
-            <p> people <unclear reason="illegible" cert="high" resp="#ch">hasn't</unclear> 
-                overwhelmed you before I get back to do my share.</p>
+                    <!--how to show that the '3rd page' is on the same paper?-->
+            <p> people <unclear reason="illegible" cert="high" resp="#rt">hasn't</unclear> 
+                <unclear reason="illegible" cert="medium" resp="#rt">overwhelmed</unclear> you before I get back to do my share.</p>
            
             <closer>
-                <salute> Sincerely Yours, </salute>
+                <salute> Sincerely Yours </salute>
                 <signed>
                     <persName>Jane Addams</persName>
                 </signed>
