@@ -50,7 +50,11 @@
                 <person xml:id="pers_sophonisba_breckinridge"> 
                     <persName>Sophonisba Breckinridge</persName>
                     <note>Shophonisba Breckinridge was born on April 1, 1866 in Lexington Kentucky to a prominent family. After passing the Kentucky bar exam, Breckinridge moved to Chicago to earn her Ph.D. in political science and economics. She then became an instructor and researcher of social reform and immigrant rights at the University of Chicago before becoming involved at Jane Addams’ Hull House where she met and began a collaborative relationship with Edith Abbott. Together, Abbott and Breckinridge established the Wendell Phillips Settlement House as well as the Social Service Review scholarly journal. Throughout her career, Breckinridge devoted her time to improving labor conditions, immigrant rights, women’s suffrage, and creating child labor laws before passing away at the age of 82. </note>
-                </person> 
+                </person>
+                <person xml:id="lucius-carter-lucas">
+                    <persName>Lucius Carter Lucas</persName>
+                    <note>Lucius Carter Lucas, born in 1888, was a resident at Hull House for an undisclosed period of time around 1909.</note>
+                </person>
             </listPerson>
         </body>
     </text>
