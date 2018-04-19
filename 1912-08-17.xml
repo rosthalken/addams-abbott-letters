@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Jane Addams to Edith Abbott 17 August 1912: A TEI Edition (Jane Addams to Edith Abbott 8 August 1911: A TEI Edition)</title>
+                <title>Jane Addams to Edith Abbott 17 August 1912: A TEI Edition</title>
                 <author>
                     <orgName>Abbott/Addams Letter Digitization Project</orgName>
                 </author>
@@ -70,15 +70,15 @@
                     <name>Baymeath,</name>
                     <name>Bar Harbor, Maine.</name>                    
                 </dateline>
-                <salute>Dear <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_edith_abbott">Miss Abbott,</persName></salute>
+                <salute><handShift new="#h2/>Dear <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_edith_abbott">Miss Abbott</persName>,</salute>
             </opener>
-            <p>I have written <persName>Esther</persName> 
+            <p>I have written <persName>Esther</persName> <!-- add xml:id when annotations file is finished CH -->
                 that you are coming to
-                Lakeside in Sept. Probably
+                Lakeside in Sept. probably
                 the day she leaves Sept. 4th.
                 I am so glad you are 
                 going down. I do hope you
-                will <gap reason="illegible" resp="#sl"/> stay for the
+                will plan <!--I just realized that the word is plan so I removed the gap. CH --> stay for the
                 month.
             </p>
             <closer>
