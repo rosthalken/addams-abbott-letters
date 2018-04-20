@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jane Addams to Edith Abbott 28 July 1911: A TEI Edition</title>
+                <author>
+                    <orgName>Abbott/Addams Letter Digitization Project</orgName>
+                </author>
+                <editor>
+                    <name xml:id="eb">Emily Benes</name>
+                    <name xml:id="ch">Caitlin Henry</name>
+                    <name xml:id="sl">Seolha Lee</name>
+                    <name xml:id="rt">Rosamond Thalken</name>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>the TEI Archiving, Publishing, and Access Service (TAPAS)</orgName>
+                </publisher>
+                <address>
+               <addrLine>360 Huntington Avenue</addrLine>
+               <addrLine>Northeastern University</addrLine>
+               <addrLine>Boston, MA 02115</addrLine>
+            </address>
+                <date when="2018-04-27">27 April 2018<!-- Final publication date  --></date>
+                <availability>
+                    <p>This file is free to download, share, or repurpose for educational and
+                        project development purposes.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Jane Addams</author>
+                    <title>Jane Addams to Edith Abbott, 28 July 1911</title>
+                    <date when="1911-07-18">July 28, 1911</date>
+                    <orgName>Edith and Grace Abbott, Papers (MS 129). Archives &#38; Special
+                        Collections, University of Nebraska–Lincoln Libraries.</orgName>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="sender">
+                    <persName key="Addams, Jane">Jane Addams</persName>
+                </person>
+                <person role="recipient">
+                    <persName key="Abbott, Edith">Edith Abbott</persName>
+                </person>
+            </particDesc>
+            <handNotes>
+                <handNote xml:id="h1" medium="typescript"/>
+                <handNote xml:id="h2" medium="black-ink"/>
+                <handNote xml:id="h3" medium="pencil"/>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1" facs="1911Jul28a.jpg"/>
+            <opener>
+                <handShift new="#h2"/>
+                <dateline>
+                    <name>Hulls Cove Maine</name>
+                    <date when="1911-07-28">July 28" 1911</date>
+                </dateline>
+                <salute>My dear <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_edith_abbott">Miss Abbott,</persName></salute>
+            </opener>
+            <p>I am very grateful for 
+                the many kind things you 
+                are doing for me and I 
+                am fairly ashamed to ask 
+                another #8212 but I do very 
+                much want the three or four 
+                brown colored pamphlets 
+                issued by <persName>Prof Huchison’s</persName> 
+                society. Is it called the 
+                Society of Moral Prophylactics 
+                and Social Hygiene, or something 
+                of the kind.</p>
+            <p>I do not clearly know where</p>
+            <pb n="2" facs="1911Jul28b.jpg"/>
+            <pb n="3" facs="1911Jul28c.jpg"/>
+            <p>my copies are, <choice><orig>altho</orig><reg>although</reg></choice> I think 
+                on the top shelf of the open 
+                book case near the door of 
+                my sitting room. If they 
+                aren’t there will you have 
+                them send me here, other 
+                copies for the U. of C.?</p>
+            <p>I shall always be sorry 
+                that you did<unclear reason="illegible" cert="high" resp="#eb">n't</unclear> come up 
+                from <unclear reason="illegible" cert="low" resp="#eb">Barton</unclear> to see this 
+                beautiful spot. <unclear reason="illegible" cert="high" resp="#eb">Do try 
+                to</unclear> have your <persName>sister</persName> and Dr 
+                <persName>Miegs</persName> stop here on their 
+                way to Montreal. It would</p>
+            <pb n="4" facs="1911Jul28d.jpg"/>
+            <pb n="5" facs="1911Jul28e.jpg"/>
+            <p>not be at the least 
+                impossible for them to do it, 
+                I think as far as S.S. went.</p>
+            <p><persName>McClure</persName> is hurrying me 
+                to the first “reading” of my 
+                <unclear reason="illegible" cert="low" resp="#eb">stuff</unclear>. I have quite 
+                enjoyed <unclear reason="illegible" cert="low" resp="#eb">writing</unclear> it, <choice><orig>altho</orig><reg>although</reg></choice> the 
+                <unclear reason="illegible" cert="high" resp="#eb">subject</unclear> is <unclear reason="illegible" cert="high" resp="#eb">grisly</unclear>. I have 
+                tried to hide it, under the 
+                title "A New Conscience and 
+                an Ancient Evil”. With 
+                affectionate feelings to Miss 
+                <persName>Breckenridge</persName>,</p>
+            <closer>
+                <salute> Always devotedly yours </salute>
+                <signed>
+                    <persName>Jane Addams.</persName>
+                </signed>
+            </closer>
+            
+            <pb n="6" facs="1911Jul28f.jpg"/>
+        </body>
+    </text>
+</TEI>

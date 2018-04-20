@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jane Addams to Edith Abbott 18 July 1911: A TEI Edition</title>
+                <author>
+                    <orgName>Abbott/Addams Letter Digitization Project</orgName>
+                </author>
+                <editor>
+                    <name xml:id="eb">Emily Benes</name>
+                    <name xml:id="ch">Caitlin Henry</name>
+                    <name xml:id="sl">Seolha Lee</name>
+                    <name xml:id="rt">Rosamond Thalken</name>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>the TEI Archiving, Publishing, and Access Service (TAPAS)</orgName>
+                </publisher>
+                <address>
+               <addrLine>360 Huntington Avenue</addrLine>
+               <addrLine>Northeastern University</addrLine>
+               <addrLine>Boston, MA 02115</addrLine>
+            </address>
+                <date when="2018-04-27">27 April 2018<!-- Final publication date  --></date>
+                <availability>
+                    <p>This file is free to download, share, or repurpose for educational and
+                        project development purposes.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Jane Addams</author>
+                    <title>Jane Addams to Edith Abbott, 18 July 1911</title>
+                    <date when="1911-07-18">July 18, 1911</date>
+                    <orgName>Edith and Grace Abbott, Papers (MS 129). Archives &#38; Special
+                        Collections, University of Nebraska–Lincoln Libraries.</orgName>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person role="sender">
+                    <persName key="Addams, Jane">Jane Addams</persName>
+                </person>
+                <person role="recipient">
+                    <persName key="Abbott, Edith">Edith Abbott</persName>
+                </person>
+            </particDesc>
+            <handNotes>
+                <handNote xml:id="h1" medium="typescript"/>
+                <handNote xml:id="h2" medium="black-ink"/>
+                <handNote xml:id="h3" medium="pencil"/>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1" facs="1911Jul18a.jpg"/>
+            <opener>
+                <handShift new="#h2"/>
+                <dateline>
+                    <name>Hull's Cove Maine</name>
+                    <date when="1911-07-18">July 18" 1911</date>
+                </dateline>
+                <salute>My dear <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_edith_abbott">Miss Abbott,</persName></salute>
+            </opener>
+            <p>I don’t suppose that 
+                you have such a paragon 
+                at the school as the 
+                <choice><orig>inclosed</orig><reg>enclosed</reg></choice> letter outlines 
+                but I am sending to <unclear reason="illegible" cert="low" resp="#eb">an</unclear> 
+                because if you had, it would 
+                be such a triumph to 
+                Chicago.</p>
+            <p>Will you proudly cherish 
+                my copies of the Report 
+                on Woman and Child</p>
+            <pb n="2" facs="1911Jul18b.jpg"/>
+            <pb n="3" facs="1911Jul18c.jpg"/>
+            <p>Wage Earners in U.S.A. 
+                as fast as they come to <persName>H.H.</persName> 
+                Otherwise I am afraid I will 
+                never be there. I do think 
+                that volume V is pretty <unclear reason="illegible" cert="high" resp="#eb">nice</unclear>.</p>
+            <p>How are you standing the 
+                heat. I do wish some of you 
+                would come to this beautiful 
+                spot. With love to Miss 
+                <persName>Breckenridge</persName>Breckenridge. </p>
+            <closer>
+                <salute> Always affectionately yours </salute>
+                <signed>
+                    <persName>Jane Addams.</persName>
+                </signed>
+            </closer>
+            
+            <pb n="4" facs="1911Jul18d.jpg"/>
+        </body>
+    </text>
+</TEI>
