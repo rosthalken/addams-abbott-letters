@@ -59,6 +59,10 @@
                     <persName>Charles Hutchinson</persName>
                     <note>Charles L. Hutchinson was an important businessman, banker, and philanthropist in Chicago from the early 1860’s until his death in 1924. He is most well-known for his work founding and presiding over the Art Institute of Chicago, but was also involved with the Chicago Sanitary District Board, the Chicago orphan asylum, and served as treasurer at Hull House. Though Hutchinson technically never received a college education, Hutchinson is likely referred to as “Prof. Hutchinson” in this letter because he was founding trustee and treasurer of the University of Chicago and received multiple honorary degrees for his involvement in the Arts.</note>
                 </person>
+                <person xml:id="pers_esther_kohn">
+                    <persName>Esther Kohn</persName>
+                    <note>Esther Kohn was born on January 12, 1875, to a prominent German-Jewish family from Chicago. She married Alfred Kohn in 1894 and studied in Europe for a few years. After her husband's death in 1909, Kohn dedicated herself to social work. She was an important part of the Hull House, taking care of the institution in Jane Addams' absence. Over the years, Kohn's interest in social work led to advancements in child and medical welfare, and she served on boards focused on immigration and Jewish organizations. Kohn coordinated between volunteer and professional social welfare organizations, and was active in the field of social work until her death in 1965.</note>
+                </person>
            </listPerson>
         </body>
     </text>
