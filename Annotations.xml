@@ -22,48 +22,90 @@
     </teiHeader>
     <text>
         <body>
+            
             <listPerson>
+                
             <person xml:id="pers_edith_abbott"> 
                 <persName>Edith Abbott</persName>
                 <note>Edith Abbott was born on September 26, 1876 in Grand Island, Nebraska, into a politically and socially active Nebraskan family. After receiving a degree at the University of Nebraska, Edith attended the University of Chicago on a fellowship to study political economy. In 1905, she obtained her doctoral degree and spent multiple years at the University College London studying social economics and welfare. She returned to the United States to continue a successful career of teaching and researching social welfare alongside Grace Abbott, Sophonisba Breckinridge, and other women at Jane Addams’ Hull House. Abbott’s work focused on social statistics as a methodology to look critically at women’s rights, child labor, immigration, and public welfare. She was promoted to Dean of the University of Chicago’s School of Social Service Administration in 1924, and held that position until retiring in 1942. </note>
-            </person>  
+            </person>
+                
                 <person xml:id="pers_grace_abbott"> 
                     <persName>Grace Abbott</persName>
                     <note>Grace Abbott, sister of Edith Abbott, was born to an influential family in Grand Island, Nebraska on November 17, 1878. After several years of teaching high school in Grand Island and receiving a degree at the University of Nebraska, Grace moved to Chicago to join her sister at Jane Addams’ Hull House. She became increasingly involved in social reform regarding immigrant rights, child labor laws, and women’s rights. In 1917, Abbott moved to Washington D.C. where she quickly became the director of the Child Labor Division of the Children’s Bureau in 1917. She led the Bureau until her health began to fail and she returned to Chicago to live with Edith in 1934. Though undergoing continued poor health, Grace continued her involvement in the Social Security Administration until her death in 1939.</note>
                 </person>
+                
                 <person xml:id="pers_john_commons"> 
                     <persName>John Commons</persName>
                     <note>Born on October 13, 1862 in Hollansburg, Ohio, John Rogers Commons is best known as the first economist committed to advocating the U.S. labor through the research, movement, and legislative activity. After graduating Oberlin College in 1888, he continued his studies at Johns Hopkins University for two years. In 1895, Commons began teaching at Syracuse University from which he was fired four years later as he was considered radical by the school. In 1904, he was appointed as a professor at the University of Wisconsin to teach labor economics until his retirement in 1933. He made many contributions to Wisconsin as well as the federal government, notably in the outline of legislation in Wisconsin for labor unions, unemployment insurance, minimum wage and in the design of the Social Security Act of 1935. His acclaimed publications include Documentary History of American Industrial Society and History of Labor in the United States. Commons died on May 11, 1945. </note>
-                </person>  
+                </person>
+                
                 <person xml:id="pers_ella_stewart"> 
                     <persName>Ella Stewart</persName>
                     <note>This is a note about Miss Stewart.</note>
-                </person>  
+                </person> 
+                
                 <person xml:id="pers_jane_addams"> 
                     <persName>Jane Addams</persName>
                     <note>Jane Addams was born on September 6, 1860 in Cedarville, Illinois in a wealthy family. She received the bachelor's degree from Rockford College for Women in 1882. She studied medicine at the Woman's Medical College of Philadelphiai, but completed only one year due to her poor health. Inspired from her visit to Toynbee Hall, a settlement house in London, she co-founded Hull House with Ellen Gates Starr in 1889 to help immigrants in Chicago. Addams was actively engaged in woman suffrage and international peace movement serving as an officer in the National American Woman's Suffrage Association and leading organizations such as Women's Peace Party, the International Congress of Women and the Women's International League for Peace and Freedom. She was awarded the Nobel Peace Prize at the age of 71. Addams died of cancer in 1935. </note>
                 </person>
+                
                 <person xml:id="pers_mary_mcdowell">
                     <persName>Mary McDowell</persName>
                     <note>Mary McDowell, born on November 20, 1854, was involved in relief and aid in Chicago for the entirety of her career, beginning with the Great Chicago Fire of 1871. After teaching kindergarten at Hull House under the supervision of Jane Addams, McDowell opened the Chicago Settlement House in 1894 where she improved living conditions and educational opportunities for immigrant families. She later became interested in waste disposal programs, earning the nickname “The Garbage Lady.” After a successful career, McDowell retired at 75 and later died in 1936.</note>
                 </person>
+                
                 <person xml:id="pers_sophonisba_breckinridge"> 
                     <persName>Sophonisba Breckinridge</persName>
                     <note>Shophonisba Breckinridge was born on April 1, 1866 in Lexington Kentucky to a prominent family. After passing the Kentucky bar exam, Breckinridge moved to Chicago to earn her Ph.D. in political science and economics. She then became an instructor and researcher of social reform and immigrant rights at the University of Chicago before becoming involved at Jane Addams’ Hull House where she met and began a collaborative relationship with Edith Abbott. Together, Abbott and Breckinridge established the Wendell Phillips Settlement House as well as the Social Service Review scholarly journal. Throughout her career, Breckinridge devoted her time to improving labor conditions, immigrant rights, women’s suffrage, and creating child labor laws before passing away at the age of 82. </note>
                 </person>
+                
                 <person xml:id="lucius-carter-lucas">
                     <persName>Lucius Carter Lucas</persName>
                     <note>Lucius Carter Lucas, born in 1888, was a resident at Hull House for an undisclosed period of time around 1909.</note>
                 </person>
+                
                 <person xml:id="charles-hutchinson">
                     <persName>Charles Hutchinson</persName>
                     <note>Charles L. Hutchinson was an important businessman, banker, and philanthropist in Chicago from the early 1860’s until his death in 1924. He is most well-known for his work founding and presiding over the Art Institute of Chicago, but was also involved with the Chicago Sanitary District Board, the Chicago orphan asylum, and served as treasurer at Hull House. Though Hutchinson technically never received a college education, Hutchinson is likely referred to as “Prof. Hutchinson” in this letter because he was founding trustee and treasurer of the University of Chicago and received multiple honorary degrees for his involvement in the Arts.</note>
                 </person>
+                
                 <person xml:id="pers_esther_kohn">
                     <persName>Esther Kohn</persName>
                     <note>Esther Kohn was born on January 12, 1875, to a prominent German-Jewish family from Chicago. She married Alfred Kohn in 1894 and studied in Europe for a few years. After her husband's death in 1909, Kohn dedicated herself to social work. She was an important part of the Hull House, taking care of the institution in Jane Addams' absence. Over the years, Kohn's interest in social work led to advancements in child and medical welfare, and she served on boards focused on immigration and Jewish organizations. Kohn coordinated between volunteer and professional social welfare organizations, and was active in the field of social work until her death in 1965.</note>
                 </person>
-           </listPerson>
+                
+                <person xml:id="pers_grace_meigs">
+                    <persName>Dr. Grace Meigs Crowder</persName>
+                        <note>Dr. Grace Meigs Crowder was born Grace Meigs in 1881 in Rock Island, Illinois. She studied at Bryn Mawr College then went on to receive her medical degree from the University of Chicago in 1908. She spent her career in Chicago, conducting medical research and publishing a number of articles. She served as the director of the Division of Hygiene in the Children's Bureau of the United States from 1914-1918. Meigs married Dr. Thomas Reid Crowder in 1918 and changed her name to Dr. Grace Meigs Crowder. Miegs Crowder was especially interested in maternal and infant hygiene and her research was instrumental in bringing attention women's health issues in the United States. She died in  Chicago in 1925. </note>
+                </person>
+                
+                <person xml:id="pers_ella_stewart">
+                    <persName>Ella Jane (Seass) Stewart</persName>
+                <note>Miss Stewart likely refers to  Ella Jane (Seass) Stewart. Ella Stewart was a prominent lecturer and suffragist born in 1890 in Arthur, Illinois. During her career she held office in several suffrage associations as vice president then president of the Illinois Equal Suffrage Association from 1902-1911 and as secretary of the Nation American Woman Suffrage Association from 1908-1911. She was also active in local organizations such as the Chicago Woman's Club, the American Association of University Women, and the Woman's City Club. Stewart was the vice chair of the Department of Social and Industrial Conditions, was a trustee of Eureka College, and directed the Association of Chicago Bank Women. </note>
+                </person>
+           
+                <person xml:id="pers_evelyn_shankle">
+                    <persName>Evelyn "Evie" Julia Boone Tate Shankle</persName>
+                    <note>Evelyn "Eva/Evie" Shankle was born in 1868. She operated the Willard Industrial School in Landrum S.C. Shankle opened the school in 1909 with the intention of providing education and assistance to area children. Children who lived too far away to attend day school were allowed to board at the school to have access to an education. The Willard School was funded by donations and Shankle gave speeches and wrote letters to solicit funds. Jane Addams was a patroness the the school and one of the buildings was named in her honor. </note>
+                </person>
+            </listPerson>
+            
+            <listEvent><!-- some annotations can be added as events -->
+                <event xml:id="event_trip_egytpt">
+                    <label>Trip to Upper Egypt</label>
+                    <note>Note about a trip to Upper Egypt</note>
+                </event>
+            </listEvent>
+            
+            
+            <listPlace><!-- some annotations can be added as places -->
+                <place xml:id="place_hull_house">
+                    <placeName></placeName>
+                    <note>This is a note about a place</note>
+                    </place>
+            </listPlace>
+                
         </body>
     </text>
 </TEI>
