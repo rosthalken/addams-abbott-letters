@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Jane Addams to Edith Abbott 19 March 1913: A TEI Edition (Jane Addams to Edith Abbott 19 March 1913: A TEI Edition)</title>
+                <title>Jane Addams to Edith Abbott 19 March 1913: A TEI Edition</title>
                 <author>
                     <orgName>Abbott/Addams Letter Digitization Project</orgName>
                 </author>
@@ -82,8 +82,8 @@
                 </dateline>
                 <salute>My dear <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_edith_abbott">Miss Abbott</persName></salute>
             </opener>
-            <p><cb n = "1"/>
-                We ar perfectly entranced 
+            <p>
+                We are perfectly entranced 
                 with Upper Egypt. It
                 isn't too warm and it is the 
                 most picturesque place in the 
@@ -93,7 +93,7 @@
                 the Egyptians are doing in reclaiming 
                 the land give me new thoughts on
                 the Imperialistic schemes in spite 
-                <cb n = "2"/>
+                <cb/>
                 of the <gap reason="illegible" resp="#sl"/> <unclear reason="illegible" cert="medium" resp="#sl">which for your use</unclear>
                 and which I read on the way with
                 the purest interest.</p> 
