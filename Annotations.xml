@@ -93,6 +93,14 @@
                     <persName>Louise deKoven Bowen</persName>
                     <note>Louise deKoven Bowen was born on February 26, 1859 in Chicago, Illinois. She became involved at Hull House during its early years in 1983 and later became an officer and trustee of the settlement house. Perhaps her most significant legacy from her time at Hull House is her development of the Bowen Country Club, a summer camp for the underprivileged children of Hull House. Though she was mostly active in improving conditions for children and immigrants, Bowen also took part in the suffragette movement and fought to extend the limits of a woman’s role in the church system. She became president of the Hull House association after Jane Addams’ death in 1935 and remained socially and politically active until her death at 94 years old.</note>
                 </person>
+                <person xml:id="pers_anderson">
+                    <persName>Mr. Anderson</persName>
+                    <note>Though his actual identity remains unknown, Mr. Anderson was likely a resident at Hull House.</note>
+                </person>
+                 <person xml:id="pers_smoot">
+                    <persName>Mr. "Smoot"</persName>
+                    <note>Though his name and identity remains unclear, Mr. "Smoot" was likely a resident at Hull House.</note>
+                </person>
             </listPerson>
             
             <listEvent><!-- some annotations can be added as events -->
