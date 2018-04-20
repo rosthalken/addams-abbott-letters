@@ -67,22 +67,22 @@
                 <handShift new="#h3"/>
                 <dateline>
                     <name>Hulls Cove Main</name>
-                    <date when="1913-08-19">August 19 1913</date>
+                    <date when="1913-08-19">August 19" 1913</date>
                 </dateline>
                 
                 <salute>My dear <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_edith_abbott">Miss Abbott</persName>,</salute>
             </opener>
             <p>We did not talk about the <choice><orig>inclosed</orig><reg>enclosed</reg></choice> clipping after all, but we must do it when you come up. I do hope that you and your sister are coming, it is worth making a real effort to <unclear reason="illegible" cert="high" resp="#ch">see</unclear> all of this beauty. We are going to be fuller in Sept. than in Aug. So please bring up “<gap reason="illegible" resp="#ch"/>. Abbott” as soon as she arrives. </p>
-                <p>Mary McDowell is resting 
+                <p><persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_mary_mcdowell">Mary McDowell</persName> is resting 
                 
                     <pb n="2" facs="19Aug1913b.jpg"/>
                     <pb n="3" facs="19Aug1913c.jpg"/>
                     
-                    and sleeping as is [] have the servants.</p>
+                    and sleeping as is <gap reason="illegible" resp="#rt"/> have the servants.</p>
                     
                    <p>It was fine to see you in Barton but I want the <gap reason="illegible" resp="#ch"/> to continue!</p>
                     
-                    <p>Mary <gap reason="illegible" resp="#ch"/> and Mrs Brown send their love and many hospitable wishes.</p>
+                    <p><persName>Mary</persName> <gap reason="illegible" resp="#ch"/> and <persNameMrs Brown</persName> send their love and many hospitable wishes.</p>
                    
            
             <closer>
