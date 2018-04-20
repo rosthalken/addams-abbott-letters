@@ -36,7 +36,7 @@
                 <bibl>
                     <author>Jane Addams</author>
                     <title>Jane Addams to Edith Abbott, 28 July 1911</title>
-                    <date when="1911-07-18">July 28, 1911</date>
+                    <date when="1911-07-28">July 28, 1911</date>
                     <orgName>Edith and Grace Abbott, Papers (MS 129). Archives &#38; Special
                         Collections, University of Nebraska–Lincoln Libraries.</orgName>
                 </bibl>
@@ -73,10 +73,10 @@
                 the many kind things you 
                 are doing for me and I 
                 am fairly ashamed to ask 
-                another #8212 but I do very 
+                another&#8212;but I do very 
                 much want the three or four 
                 brown colored pamphlets 
-                issued by <persName>Prof Huchison’s</persName> 
+                issued by <persName>Prof Huchison’s</persName> <!-- Add ref when annotation file is done CH -->
                 society. Is it called the 
                 Society of Moral Prophylactics 
                 and Social Hygiene, or something 
@@ -110,7 +110,7 @@
                 <unclear reason="illegible" cert="high" resp="#eb">subject</unclear> is <unclear reason="illegible" cert="high" resp="#eb">grisly</unclear>. I have 
                 tried to hide it, under the 
                 title "A New Conscience and 
-                an Ancient Evil”. With 
+                an Ancient Evil". With 
                 affectionate feelings to Miss 
                 <persName>Breckenridge</persName>,</p>
             <closer>
