@@ -89,6 +89,10 @@
                     <persName>Evelyn "Evie" Julia Boone Tate Shankle</persName>
                     <note>Evelyn "Eva/Evie" Shankle was born in 1868. She operated the Willard Industrial School in Landrum S.C. Shankle opened the school in 1909 with the intention of providing education and assistance to area children. Children who lived too far away to attend day school were allowed to board at the school to have access to an education. The Willard School was funded by donations and Shankle gave speeches and wrote letters to solicit funds. Jane Addams was a patroness the the school and one of the buildings was named in her honor. </note>
                 </person>
+                <person xml:id="pers_louise_bowen">
+                    <persName>Louise deKoven Bowen</persName>
+                    <note>Louise deKoven Bowen was born on February 26, 1859 in Chicago, Illinois. She became involved at Hull House during its early years in 1983 and later became an officer and trustee of the settlement house. Perhaps her most significant legacy from her time at Hull House is her development of the Bowen Country Club, a summer camp for the underprivileged children of Hull House. Though she was mostly active in improving conditions for children and immigrants, Bowen also took part in the suffragette movement and fought to extend the limits of a woman’s role in the church system. She became president of the Hull House association after Jane Addams’ death in 1935 and remained socially and politically active until her death at 94 years old.</note>
+                </person>
             </listPerson>
             
             <listEvent><!-- some annotations can be added as events -->
