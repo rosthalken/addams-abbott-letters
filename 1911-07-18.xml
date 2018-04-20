@@ -67,7 +67,7 @@
                     <name>Hull's Cove Maine</name>
                     <date when="1911-07-18">July 18" 1911</date>
                 </dateline>
-                <salute>My dear <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_edith_abbott">Miss Abbott,</persName></salute>
+                <salute>My dear <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_edith_abbott">Miss Abbott</persName>,</salute>
             </opener>
             <p>I don’t suppose that 
                 you have such a paragon 
@@ -77,13 +77,13 @@
                 because if you had, it would 
                 be such a triumph to 
                 Chicago.</p>
-            <p>Will you proudly cherish 
+            <p>Will you proudly cherish <!-- Add uncertainty here? -->
                 my copies of the Report 
                 on Woman and Child</p>
             <pb n="2" facs="1911Jul18b.jpg"/>
             <pb n="3" facs="1911Jul18c.jpg"/>
             <p>Wage Earners in U.S.A. 
-                as fast as they come to <persName>H.H.</persName> 
+                as fast as they come to <persName>H. H.</persName> <!-- add xml:id when annotations file is ready CH -->
                 Otherwise I am afraid I will 
                 never be there. I do think 
                 that volume V is pretty <unclear reason="illegible" cert="high" resp="#eb">nice</unclear>.</p>
@@ -91,11 +91,11 @@
                 heat. I do wish some of you 
                 would come to this beautiful 
                 spot. With love to Miss 
-                <persName>Breckenridge</persName>Breckenridge. </p>
+                <persName>Breckenridge</persName><!-- Add xml:id when annotation file is finished -->. </p>
             <closer>
                 <salute> Always affectionately yours </salute>
                 <signed>
-                    <persName>Jane Addams.</persName>
+                    <persName>Jane Addams.</persName><!-- add xml:id when annotations file is finished -->
                 </signed>
             </closer>
             
