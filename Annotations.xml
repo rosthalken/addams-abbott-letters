@@ -42,7 +42,7 @@
                 
                 <person xml:id="pers_ella_stewart"> 
                     <persName>Ella Stewart</persName>
-                    <note>This is a note about Miss Stewart.</note>
+                    <note>Miss Stewart likely refers to  Ella Jane (Seass) Stewart. Ella Stewart was a prominent lecturer and suffragist born in 1890 in Arthur, Illinois. During her career she held office in several suffrage associations as vice president and later president of the Illinois Equal Suffrage Association from 1902-1911 and as secretary of the Nation American Woman Suffrage Association from 1908-1911. She was also active in local organizations such as the Chicago Woman's Club, the American Association of University Women, and the Woman's City Club. Stewart was the vice chair of the Department of Social and Industrial Conditions, was a trustee of Eureka College, and directed the Association of Chicago Bank Women. </note>
                 </person> 
                 
                 <person xml:id="pers_jane_addams"> 
@@ -84,7 +84,12 @@
                     <persName>Ella Jane (Seass) Stewart</persName>
                 <note>Miss Stewart likely refers to  Ella Jane (Seass) Stewart. Ella Stewart was a prominent lecturer and suffragist born in 1890 in Arthur, Illinois. During her career she held office in several suffrage associations as vice president then president of the Illinois Equal Suffrage Association from 1902-1911 and as secretary of the Nation American Woman Suffrage Association from 1908-1911. She was also active in local organizations such as the Chicago Woman's Club, the American Association of University Women, and the Woman's City Club. Stewart was the vice chair of the Department of Social and Industrial Conditions, was a trustee of Eureka College, and directed the Association of Chicago Bank Women. </note>
                 </person>
-           
+             
+                <person xml:id="pers_mary-rozet-smith">
+                    <persName>Mary Rozet Smith</persName>
+                <note>Mary Rozet Smith was born on December 23, 1868 in Chicago, Illinois, to wealthy parents who gave her the fortune to be the benefactor and trustee of Hull House. She began to volunteer at Hull House around 1889, teaching in the kindergarten. Although she was never a resident at the settlement house, she engaged deeply in her work at the House, managing the nursery and clubs and especially looking after things related to children. Her father, Mary Charles Mather Smith, financed the opening of The Children’s Building at Hull House. Smith’s philanthropy reached out beyond Hull House to other settlement houses in Chicago, and she was  involved with various other organizations. As Jane Addams’s lifelong companion, Smith took care of Addams who often fell ill. On February 22, 1934, Smith died from pneumonia at the age of 65. </note>
+                </person>
+                
                 <person xml:id="pers_evelyn_shankle">
                     <persName>Evelyn "Evie" Julia Boone Tate Shankle</persName>
                     <note>Evelyn "Eva/Evie" Shankle was born in 1868. She operated the Willard Industrial School in Landrum S.C. Shankle opened the school in 1909 with the intention of providing education and assistance to area children. Children who lived too far away to attend day school were allowed to board at the school to have access to an education. The Willard School was funded by donations and Shankle gave speeches and wrote letters to solicit funds. Jane Addams was a patroness the the school and one of the buildings was named in her honor. </note>
@@ -101,8 +106,9 @@
             
             <listPlace><!-- some annotations can be added as places -->
                 <place xml:id="place_hull_house">
-                    <placeName></placeName>
-                    <note>This is a note about a place</note>
+                    <placeName>Hull House</placeName>
+                    <note>Jane Addams and Ellen Gates Starr founded Hull House in 1889. Inspired by Toynbee Hall in London, Hull House began with outreach programs for the large immigrant population in the South side of Chicago, Illinois. Over the years, the scope of programs offered expanded widely, and Hull House attracted numerous experts in the American social work field. Hull House residents conducted research and fought for social reform in the United States. At its height, Hull House included about a dozen buildings; today, the only remaining building is the original house opened by Jane Addams.
+                    </note>
                     </place>
             </listPlace>
                 
