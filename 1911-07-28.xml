@@ -26,7 +26,7 @@
                <addrLine>Northeastern University</addrLine>
                <addrLine>Boston, MA 02115</addrLine>
             </address>
-                <date when="2018-04-27">27 April 2018<!-- Final publication date  --></date>
+                <date when="2018-04-27">27 April 2018</date>
                 <availability>
                     <p>This file is free to download, share, or repurpose for educational and
                         project development purposes.</p>
@@ -67,7 +67,7 @@
                     <name>Hulls Cove Maine</name>
                     <date when="1911-07-28">July 28" 1911</date>
                 </dateline>
-                <salute>My dear <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_edith_abbott">Miss Abbott,</persName></salute>
+                <salute>My dear <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_edith_abbott">Miss Abbott</persName></salute>
             </opener>
             <p>I am very grateful for 
                 the many kind things you 
@@ -102,7 +102,7 @@
             <pb n="5" facs="1911Jul28e.jpg"/>
             <p>not be at the least 
                 impossible for them to do it, 
-                I think as far as S.S. went.</p>
+                I think as far as S.S.<!--Was this person's name S.S. McClure/do we have an annotation for them?--> went.</p>
             <p><persName>McClure</persName> is hurrying me 
                 to the first “reading” of my 
                 <unclear reason="illegible" cert="low" resp="#eb">stuff</unclear>. I have quite 
@@ -112,7 +112,7 @@
                 title "A New Conscience and 
                 an Ancient Evil". With 
                 affectionate feelings to Miss 
-                <persName>Breckenridge</persName>,</p>
+                <persName>Breckinridge</persName>,</p>
             <closer>
                 <salute> Always devotedly yours </salute>
                 <signed>
