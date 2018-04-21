@@ -115,7 +115,7 @@
             </listPerson>
             
             <listEvent><!-- some annotations can be added as events -->
-                <event xml:id="place_event_trip_egytpt">
+                <event xml:id="event_trip_egytpt">
                     <label>Trip to Upper Egypt</label>
                     <note>On February 18, 1913, Jane Addams went on a trip to Egypt, and then to Palestine and Italy, with Mary Rozet Smith, which was a birthday gift from Louise Bowen and Mary Smith. Although it was going to be only four-month trip, it stirred Chicago, gathering over 1,200 people at a farewell dinner for her. Graham Taylor wrote in the Chicago Daily News, “No one could be more missed from Chicago than she.” Her travels in Egypt deeply impressed her. During the trip she penned an essay, “The Unexpected Reactions of a Traveler in Egypt” later published in The Atlantic Monthly in 1914, and a book, The Long Road of Woman’s Memory (1916) in which she contemplates on humanism, memory, death and afterlife.</note>
                 </event>
