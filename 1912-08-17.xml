@@ -72,13 +72,13 @@
                 </dateline>
                 <salute><handShift new="#h2/>Dear <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_edith_abbott">Miss Abbott</persName>,</salute>
             </opener>
-            <p>I have written <persName>Esther</persName> <!-- add xml:id when annotations file is finished CH -->
+            <p>I have written <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_esther_kohn">Esther</persName>
                 that you are coming to
                 Lakeside in Sept. probably
                 the day she leaves Sept. 4th.
                 I am so glad you are 
                 going down. I do hope you
-                will plan <!--I just realized that the word is plan so I removed the gap. CH --> stay for the
+                will plan stay for the
                 month.
             </p>
             <closer>
