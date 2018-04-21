@@ -102,8 +102,8 @@
             <pb n="5" facs="1911Jul28e.jpg"/>
             <p>not be at the least 
                 impossible for them to do it, 
-                I think as far as S.S.<!--Was this person's name S.S. McClure/do we have an annotation for them? - Yes, he is and, I added the annotationas-SL--> went.</p>
-            <p><persName>McClure</persName> is hurrying me 
+                I think as far as <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_samuel_sidney_mcclure">S.S.</persName> <!--Was this person's name S.S. McClure/do we have an annotation for them? - I added the annotationas. SL--> went.</p>
+            <p><persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_samuel_sidney_mcclure">McClure</persName> is hurrying me 
                 to the first “reading” of my 
                 <unclear reason="illegible" cert="low" resp="#eb">stuff</unclear>. I have quite 
                 enjoyed <unclear reason="illegible" cert="low" resp="#eb">writing</unclear> it, <choice><orig>altho</orig><reg>although</reg></choice> the 
