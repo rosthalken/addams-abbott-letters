@@ -26,7 +26,7 @@
                <addrLine>Northeastern University</addrLine>
                <addrLine>Boston, MA 02115</addrLine>
             </address>
-                <date when="2018-04-27">27 April 2018<!-- Final publication date  --></date>
+                <date when="2018-04-27">27 April 2018</date>
                 <availability>
                     <p>This file is free to download, share, or repurpose for educational and
                         project development purposes.</p>
@@ -60,7 +60,7 @@
     </teiHeader>
     <text>
         <body>
-            <pb n="1" facs="1911Jul18a.jpg"/>
+            <pb n="1" facs="http://www.tapasproject.org/sites/default/files/1524449093/support_files/1911Jul18a.jpg"/><!-- 1911Jul18a.jpg -->
             <opener>
                 <handShift new="#h2"/>
                 <dateline>
@@ -77,11 +77,13 @@
                 because if you had, it would 
                 be such a triumph to 
                 Chicago.</p>
-            <p>Will you proudly cherish <!-- Add uncertainty here? -->
+            <p>Will you proudly cherish 
                 my copies of the Report 
                 on Woman and Child</p>
-            <pb n="2" facs="1911Jul18b.jpg"/>
-            <pb n="3" facs="1911Jul18c.jpg"/>
+            
+            <pb n="2" facs="http://www.tapasproject.org/sites/default/files/1524449153/support_files/1911Jul18b.jpg"/><!-- 1911Jul18b.jpg -->
+            <pb n="3" facs="http://www.tapasproject.org/sites/default/files/1524449161/support_files/1911Jul18c.jpg"/><!-- 1911Jul18c.jpg -->
+            
             <p>Wage Earners in the U.S.A. 
                 as fast as they come to <placeName>H. H.</placeName> <!-- add xml:id when annotations file is ready CH -->
                 Otherwise I am afraid I will 
@@ -99,7 +101,7 @@
                 </signed>
             </closer>
             
-            <pb n="4" facs="1911Jul18d.jpg"/>
+            <pb n="4" facs="http://www.tapasproject.org/sites/default/files/1524449166/support_files/1911Jul18d.jpg"/><!-- 1911Jul18d.jpg -->
         </body>
     </text>
 </TEI>
