@@ -133,6 +133,14 @@
                     </place>
             </listPlace>
             
+            <listPlace>
+                <place xml:id="place_u_of_c">
+                    <placeName>University of Chicago</placeName>
+                    <note>U. of C. refers to the University of Chicago, one of the institutions residents of the Hull House worked closely with. Edith Abbott was the first dean of the School of Social Service Administration at the University of Chicago.
+                    </note>
+                    </place>
+            </listPlace>
+            
             <listOrg>
                 <org>
                     <orgName>The Societies of Moral Prophylaxis and of Social Hygiene</orgName>
