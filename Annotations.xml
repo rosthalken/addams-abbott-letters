@@ -142,7 +142,7 @@
             </listPlace>
             
             <listOrg>
-                <org>
+                <org xml:id="society_of_moral">
                     <orgName>The Societies of Moral Prophylaxis and of Social Hygiene</orgName>
                     <note>The societies of Moral Prophylaxis and of Social Hygiene organized by physicians provided education about sexual hygiene for youths in schools and colleges through publications and lectures.</note>
                 </org>
