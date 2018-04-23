@@ -61,7 +61,7 @@
     </teiHeader>
     <text>
         <body>
-            <pb n="1" facs="http://www.tapasproject.org/sites/default/files/1524012146/support_files/1913Mar19a.jpg"/><!-- 20Jun1913a.jpg -->
+            <pb n="1" facs="http://www.tapasproject.org/sites/default/files/1524449338/support_files/1913June20a.jpg"/><!-- 20Jun1913a.jpg -->
            
             <opener>
                 <handShift new="#h1"/>
@@ -86,7 +86,7 @@
                 </signed>
             </closer>
 
-            <pb n="2" facs="http://www.tapasproject.org/sites/default/files/1524012193/support_files/1913Mar19b.jpg"/><!-- 20Jun1913b.jpg -->
+            <pb n="2" facs="http://www.tapasproject.org/sites/default/files/1524449387/support_files/1913June20b.jpg"/><!-- 20Jun1913b.jpg -->
         </body>
     </text>
 </TEI>
