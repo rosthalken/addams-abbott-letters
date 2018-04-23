@@ -61,7 +61,7 @@
     </teiHeader>
     <text>
         <body>
-            <pb n="1" facs="1912Aug17a.jpg"/>            
+            <pb n="1" facs="http://www.tapasproject.org/sites/default/files/1524006795/support_files/1912Aug17a.jpg"/> <!-- 1912Aug17a.jpg -->           
             <opener>
                 <handShift new="#h2"/>
                 <dateline>
@@ -87,7 +87,7 @@
                     <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_jane_addams">Jane Addams</persName>
                 </signed>
             </closer>  
-            <pb n="2" facs="1912Aug17b.jpg"/>
+            <pb n="2" facs="http://www.tapasproject.org/sites/default/files/1524006486/support_files/1912Aug17b.jpg"/><!-- 1912Aug17b.jpg -->
         </body> 
     </text>
 </TEI>
