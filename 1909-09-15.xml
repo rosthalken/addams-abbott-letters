@@ -69,29 +69,30 @@
                     <name><handShift new="#h1"/>Baymeath,</name>
                     <name>Bar Harbor, Maine.</name>
                 </dateline>
-                <salute><handShift new="#h2"/>My dear <persName ref="/sites/default/files/1524446718/tei/Annotations.xml#pers_edith_abbott">Miss Abbott</persName>,</salute>
+                <salute><handShift new="#h2"/>My dear <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_edith_abbott">Miss Abbott</persName>,</salute>
             </opener>
-            <p>I am very grateful for all your letter writing and all the other things you are doing. I haven't heard again from <persName ref="/sites/default/files/1524446718/tei/Annotations.xml#pers_smoot>Mr. <unclear reason="illegible" cert="low" resp="#rt">Smoot</unclear></persName>, but I wrote in reply to his first letter that I thought it was hardly fair for </p>
-           
-                <pb n="2" facs="http://www.tapasproject.org/sites/default/files/1524448798/support_files/1909Sep15b.jpg"/><!--1909Sep15b.jpg-->
-                
+            <p>I am very grateful for all your letter writing and all the other things you are doing. I haven't heard again from <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_smoot">Mr. <unclear reason="illegible" cert="low" resp="#rt">Smoot</unclear></persName>, but I wrote in reply to his first letter that I thought it was hardly fair for </p>
+            
+            <pb n="2" facs="http://www.tapasproject.org/sites/default/files/1524448798/support_files/1909Sep15b.jpg"/><!--1909Sep15b.jpg-->
+            
             <pb n="3" facs="http://www.tapasproject.org/sites/default/files/1524448806/support_files/1909Sep15c.jpg"/><!--1909Sep15c.jpg-->
-                        
-            <p><persName ref="/sites/default/files/1524446718/tei/Annotations.xml#pers_anderson>Mr Anderson</persName> as a new man to take a court room if any of the older residentswanted it. If <persName ref="/sites/default/files/1524446718/tei/Annotations.xml#pers_anderson>Mr Anderson</persName> takes a third room <unclear reason="illegible" cert="medium" resp="#rt">also</unclear> when he and <persName ref="/sites/default/files/1524446718/tei/Annotations.xml#pers_smoot>Mr. <unclear reason="illegible" cert="low" resp="#rt">Smoot</unclear></persName> would still have two court rooms. <persName ref="/sites/default/files/1524446718/tei/Annotations.xml#pers_lucius-carter-lucas>Mr. Lucas</persName><gap reason="illegible" resp="#rt"/> has been a very good resident and I think deserves this room. </p>
+            
+            <p><persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_anderson">Mr Anderson</persName> as a new man to take a court room if any of the older residents wanted it. If <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_anderson">Mr Anderson</persName> takes a third room <unclear reason="illegible" cert="medium" resp="#rt">also</unclear> when he and <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_smoot">Mr. <unclear reason="illegible" cert="low" resp="#rt">Smoot</unclear></persName> would still have two court rooms. <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_lucius-carter-lucas">Mr. Lucas</persName><gap reason="illegible" resp="#rt"/> has been a very good resident and I think deserves this room. </p>
             <p>I hope that the Prison Congress</p>
             <pb n="4" facs="http://www.tapasproject.org/sites/default/files/1524448817/support_files/1909Sep15d.jpg"/><!--1909Sep15d.jpg-->
-                    
+            
             <p> people <unclear reason="illegible" cert="high" resp="#rt">hasn't</unclear><unclear reason="illegible" cert="medium" resp="#rt">overwhelmed</unclear> you before I get back to do my share.</p>
             <closer>
                 <salute> Sincerely Yours </salute>
                 <signed>
-                    <persName ref="/sites/default/files/1524446718/tei/Annotations.xml#pers_jane_addams>Jane Addams</persName>
+                    <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_jane_addams">Jane Addams</persName>
                 </signed>
             </closer>
-                <postscript>
-                    <p>P.S.</p>
-                    <p>Has there been a letter for me asking me to deliver an address before the Philosophical Union in California next summer?</p>
-                </postscript>
+            <postscript>
+                <p>P.S.</p>
+                <p>Has there been a letter for me asking me to deliver an address before the Philosophical Union in California next summer?</p>
+            </postscript>
         </body>
     </text>
 </TEI>
+
