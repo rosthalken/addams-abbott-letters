@@ -61,7 +61,7 @@
     </teiHeader>
     <text>
         <body>
-            <pb n="1" facs="1909Sep15a.jpg"/> 
+            <pb n="1" facs="http://www.tapasproject.org/sites/default/files/1524448745/support_files/1909Sep15a.jpg"/> <!--1909Sep15a.jpg-->
             <opener>
                 <handShift new="#h2"/>
                 <dateline>
@@ -72,12 +72,14 @@
                 <salute><handShift new="#h2"/>My dear <persName ref="/sites/default/files/1524446718/tei/Annotations.xml#pers_edith_abbott">Miss Abbott</persName>,</salute>
             </opener>
             <p>I am very grateful for all your letter writing and all the other things you are doing. I haven't heard again from <persName ref="/sites/default/files/1524446718/tei/Annotations.xml#pers_smoot>Mr. <unclear reason="illegible" cert="low" resp="#rt">Smoot</unclear></persName>, but I wrote in reply to his first letter that I thought it was hardly fair for </p>
-            <pb n="2" facs="1909Sep15b.jpg"/>
-            <pb n="3" facs="1909Sep15c.jpg"/>
+           
+                <pb n="2" facs="http://www.tapasproject.org/sites/default/files/1524448798/support_files/1909Sep15b.jpg"/><!--1909Sep15b.jpg-->
+                
+            <pb n="3" facs="http://www.tapasproject.org/sites/default/files/1524448806/support_files/1909Sep15c.jpg"/><!--1909Sep15c.jpg-->
                         
-            <p><persName ref="/sites/default/files/1524446718/tei/Annotations.xml#pers_anderson>Mr Anderson</persName> as a new man to take a court room if any of the older residentswanted it. If <persName>Mr Anderson</persName> takes a third room <unclear reason="illegible" cert="medium" resp="#rt">also</unclear> when he and <persName ref="/sites/default/files/1524446718/tei/Annotations.xml#pers_smoot>Mr. <unclear reason="illegible" cert="low" resp="#rt">Smoot</unclear></persName> would still have two court rooms. <persName ref="/sites/default/files/1524446718/tei/Annotations.xml#pers_lucius-carter-lucas>Mr. Lucas</persName><gap reason="illegible" resp="#rt"/> has been a very good resident and I think deserves this room. </p>
-            <p>I hope that the >Prison Congress</p>
-            <pb n="3" facs="1909Sep15d.jpg"/>
+            <p><persName ref="/sites/default/files/1524446718/tei/Annotations.xml#pers_anderson>Mr Anderson</persName> as a new man to take a court room if any of the older residentswanted it. If <persName ref="/sites/default/files/1524446718/tei/Annotations.xml#pers_anderson>Mr Anderson</persName> takes a third room <unclear reason="illegible" cert="medium" resp="#rt">also</unclear> when he and <persName ref="/sites/default/files/1524446718/tei/Annotations.xml#pers_smoot>Mr. <unclear reason="illegible" cert="low" resp="#rt">Smoot</unclear></persName> would still have two court rooms. <persName ref="/sites/default/files/1524446718/tei/Annotations.xml#pers_lucius-carter-lucas>Mr. Lucas</persName><gap reason="illegible" resp="#rt"/> has been a very good resident and I think deserves this room. </p>
+            <p>I hope that the Prison Congress</p>
+            <pb n="4" facs="http://www.tapasproject.org/sites/default/files/1524448817/support_files/1909Sep15d.jpg"/><!--1909Sep15d.jpg-->
                     
             <p> people <unclear reason="illegible" cert="high" resp="#rt">hasn't</unclear><unclear reason="illegible" cert="medium" resp="#rt">overwhelmed</unclear> you before I get back to do my share.</p>
             <closer>
