@@ -60,7 +60,8 @@
     </teiHeader>
     <text>
         <body>
-            <pb n="1" facs="1911Jul28a.jpg"/>
+            <pb n="1" facs="http://www.tapasproject.org/sites/default/files/1524449202/support_files/1911Jul28a.jpg"/><!-- 1911Jul28a.jpg -->
+            
             <opener>
                 <handShift new="#h2"/>
                 <dateline>
@@ -82,8 +83,11 @@
                 and Social Hygiene, or something 
                 of the kind.</p>
             <p>I do not clearly know where</p>
-            <pb n="2" facs="1911Jul28b.jpg"/>
-            <pb n="3" facs="1911Jul28c.jpg"/>
+            
+            <pb n="2" facs="http://www.tapasproject.org/sites/default/files/1524449246/support_files/1911Jul28b.jpg"/><!-- 1911Jul28b.jpg -->
+            
+            <pb n="3" facs="http://www.tapasproject.org/sites/default/files/1524449255/support_files/1911Jul28c.jpg"/><!-- 1911Jul28c.jpg -->
+            
             <p>my copies are, <choice><orig>altho</orig><reg>although</reg></choice> I think 
                 on the top shelf of the open 
                 book case near the door of 
@@ -98,8 +102,11 @@
                 to</unclear> have your <persName>sister</persName> and Dr 
                 <persName>Miegs</persName> stop here on their 
                 way to Montreal. It would</p>
-            <pb n="4" facs="1911Jul28d.jpg"/>
-            <pb n="5" facs="1911Jul28e.jpg"/>
+            
+            <pb n="4" facs="http://www.tapasproject.org/sites/default/files/1524449260/support_files/1911Jul28d.jpg"/><!-- 1911Jul28d.jpg -->
+            
+            <pb n="5" facs="http://www.tapasproject.org/sites/default/files/1524449265/support_files/1911Jul28e.jpg"/><!-- 1911Jul28e.jpg -->
+            
             <p>not be at the least 
                 impossible for them to do it, 
                 I think as far as <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_samuel_sidney_mcclure">S.S.</persName> <!--Was this person's name S.S. McClure/do we have an annotation for them? - I added the annotationas. SL--> went.</p>
@@ -120,7 +127,7 @@
                 </signed>
             </closer>
             
-            <pb n="6" facs="1911Jul28f.jpg"/>
+            <pb n="6" facs="http://www.tapasproject.org/sites/default/files/1524449271/support_files/1911Jul28f.jpg"/><!-- 1911Jul28f.jpg -->
         </body>
     </text>
 </TEI>
