@@ -70,9 +70,9 @@
                     <name>Baymeath,</name>
                     <name>Bar Harbor, Maine.</name>                    
                 </dateline>
-                <salute><handShift new="#h2/>Dear <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_edith_abbott">Miss Abbott</persName>,</salute>
+                <salute><handShift new="#h2"/>Dear <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_edith_abbott">Miss Abbott</persName>,</salute>
             </opener>
-            <p>I have written <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_esther_kohn">Esther</persName>
+            <p>I have written <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_esther_kohn">Esther</persName>
                 that you are coming to
                 Lakeside in Sept. probably
                 the day she leaves Sept. 4th.
@@ -84,7 +84,7 @@
             <closer>
                 <salute> Always affectionately yours</salute>
                 <signed>
-                    <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_jane_addams">Jane Addams</persName>
+                    <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_jane_addams">Jane Addams</persName>
                 </signed>
             </closer>  
             <pb n="2" facs="http://www.tapasproject.org/sites/default/files/1524006486/support_files/1912Aug17b.jpg"/><!-- 1912Aug17b.jpg -->
