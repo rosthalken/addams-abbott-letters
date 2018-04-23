@@ -62,7 +62,7 @@
     <text>
         <body>
             <pb n="1" facs="http://www.tapasproject.org/sites/default/files/1524448943/support_files/1911Jul06a.jpg"/> <!-- 1911Jul06a.jpg -->
-           
+            
             <opener>
                 <handShift new="#h2"/>
                 <dateline>
@@ -70,20 +70,21 @@
                     <name>Hulls Cove</name>
                     <name>Maine.</name>
                 </dateline>
-                <salute>My dear <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_edith_abbott">Miss Abbott</persName> &#8212;</salute>
+                <salute>My dear <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_edith_abbott">Miss Abbott</persName> &#8212;</salute>
             </opener>
-            <p>Here is the <persName>Educational Aid Society</persName> at it again. I am sending it on to you merely as data in what may prove an interesting case. </p>
+            <p>Here is the Educational Aid Society at it again. I am sending it on to you merely as data in what may prove an interesting case. </p>
             <p>I hope you are all still alive in spite of the dreadful heat. I am </p>
             
             <pb n="2" facs="http://www.tapasproject.org/sites/default/files/1524449004/support_files/1911Jul06b.jpg"/><!-- 1911Jul06b.jpg-->
             <pb n="3" facs="http://www.tapasproject.org/sites/default/files/1524449012/support_files/1911Jul06c.jpg"/><!-- 1911Jul06c.jpg -->
+            
             <p>absolutely ashamed to be in this cool place. </p>
-            <p>I am enclosing a letter from <persName>Mrs Shankle</persName> received today. She is attractive in spite of all her queerness. Don't bother to read it if you are busy.</p>
-            <!-- Add xml:ids when annotation file is ready CH -->
+            <p>I am enclosing a letter from <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_evelyn_shankle">Mrs Shankle</persName> received today. She is attractive in spite of all her queerness. Don't bother to read it if you are busy.</p>
+            
             <closer>
                 <salute> Always affectionately yours. </salute>
                 <signed>
-                    <persName>Jane Addams</persName>
+                    <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_jane_addams">Jane Addams</persName>
                 </signed> 
             </closer>
             <postscript>
@@ -94,3 +95,4 @@
         </body>
     </text>
 </TEI>
+
