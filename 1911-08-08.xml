@@ -60,7 +60,7 @@
     </teiHeader>
     <text>
         <body>
-            <pb n="1" facs="08Aug1911a.jpg"/>
+            <pb n="1" facs="http://www.tapasproject.org/sites/default/files/1523934432/support_files/08Aug1911a.jpg"/><!-- 08Aug1911a.jpg -->
             
             <opener>
                 <handShift new="#h2"/>
@@ -85,7 +85,7 @@
                 </signed>
             </closer>
 
-            <pb n="2" facs="08Aug1911b.jpg"/>
+            <pb n="2" facs="http://www.tapasproject.org/sites/default/files/1523934457/support_files/08Aug1911b.jpg"/><!-- 08Aug1911b.jpg -->
         </body>
     </text>
 </TEI>
