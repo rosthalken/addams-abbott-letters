@@ -68,19 +68,19 @@
                     <name>Hulls Cove Maine</name>
                     <date when="1911-07-28">July 28" 1911</date>
                 </dateline>
-                <salute>My dear <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_edith_abbott">Miss Abbott</persName></salute>
+                <salute>My dear <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_edith_abbott">Miss Abbott</persName></salute>
             </opener>
             <p>I am very grateful for 
                 the many kind things you 
                 are doing for me and I 
                 am fairly ashamed to ask 
-                another&#8212;but I do very <!-- I think it is not a dash, but a part of "t" from "another." SL --> 
+                another. but I do very
                 much want the three or four 
                 brown colored pamphlets 
-                issued by <persName>Prof Henderson’s</persName> <!-- Add ref when annotation file is done CH -->
+                issued by <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_charles_richmond_henderson">Prof Henderson’s</persName>
                 society. Is it called the 
-                <orgName>Society of Moral Prophylactics 
-                and Social Hygiene</orgName>, or something <!-- Add ref to organization EB -->
+                <orgName ref="/sites/default/files/1524486624/tei/Annotations.xml#society_of_moral">Society of Moral Prophylactics 
+                    and Social Hygiene</orgName>, or something 
                 of the kind.</p>
             <p>I do not clearly know where</p>
             
@@ -94,13 +94,13 @@
                 my sitting room. If they 
                 aren’t there will you have 
                 them send me here, other 
-                copies for the <placeName>U. of C.?</placeName></p> <!-- Add ref when annotation file is done -->
+                copies for the <placeName ref="/sites/default/files/1524486624/tei/Annotations.xml#place_u_of_c">U. of C.</placeName>?</p> 
             <p>I shall always be sorry 
                 that you did<unclear reason="illegible" cert="high" resp="#eb">n't</unclear> come up 
                 from <unclear reason="illegible" cert="low" resp="#eb">Barton</unclear> to see this 
                 beautiful spot. <unclear reason="illegible" cert="high" resp="#eb">Do try 
-                to</unclear> have your <persName>sister</persName> and Dr 
-                <persName>Miegs</persName> stop here on their <!-- Add ref when annotation file is done CH -->
+                    to</unclear> have your <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_grace_abbott">sister</persName> and Dr 
+                <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_grace_meigs">Meigs</persName> stop here on their 
                 way to Montreal. It would</p>
             
             <pb n="4" facs="http://www.tapasproject.org/sites/default/files/1524449260/support_files/1911Jul28d.jpg"/><!-- 1911Jul28d.jpg -->
@@ -109,8 +109,8 @@
             
             <p>not be at the least 
                 impossible for them to do it, 
-                I think as far as <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_samuel_sidney_mcclure">S.S.</persName> <!--Was this person's name S.S. McClure/do we have an annotation for them? - I added the annotationas. SL--> went.</p>
-            <p><persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_samuel_sidney_mcclure">McClure</persName> is hurrying me 
+                I think as far as <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_samuel_sidney_mcclure">S.S.</persName> went.</p>
+            <p><persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_samuel_sidney_mcclure">McClure</persName> is hurrying me 
                 to the first “reading” of my 
                 <unclear reason="illegible" cert="low" resp="#eb">stuff</unclear>. I have quite 
                 enjoyed <unclear reason="illegible" cert="low" resp="#eb">writing</unclear> it, <choice><orig>altho</orig><reg>although</reg></choice> the 
@@ -119,11 +119,11 @@
                 title "A New Conscience and 
                 an Ancient Evil". With 
                 affectionate feelings to Miss 
-                <persName>Breckinridge</persName>,</p>
+                <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_sophonisba_breckinridge">Breckinridge</persName>,</p>
             <closer>
                 <salute> Always devotedly yours </salute>
                 <signed>
-                    <persName>Jane Addams.</persName>
+                    <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_jane_addams">Jane Addams.</persName>
                 </signed>
             </closer>
             
