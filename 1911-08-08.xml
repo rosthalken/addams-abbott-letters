@@ -71,20 +71,20 @@
                     <name>Bar Harbor, Maine.</name>
                 </dateline>
                 <handShift new="h2"/>
-                <salute>My dear <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_edith_abbott">Miss Abbott,</persName></salute>
+                <salute>My dear <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_edith_abbott">Miss Abbott,</persName></salute>
             </opener>
-            <p>I have written to <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_john_commons">Prof Commons</persName> that you
-                will write him in regard to <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_ella_stewart">Miss Stewart</persName>. It
+            <p>I have written to <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_john_commons">Prof Commons</persName> that you
+                will write him in regard to <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_ella_stewart">Miss Stewart</persName>. It
                 would be a fine opening for the right person.</p>
             <p> Thank you so much for all the literature you have sent, the first draft of the book
                 is finished but I am too near to judge it.</p>
             <closer>
                 <salute> Always affectionately </salute>
                 <signed>
-                    <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_jane_addams">Mrs. Jane Addams.</persName>
+                    <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_jane_addams">Mrs. Jane Addams.</persName>
                 </signed>
             </closer>
-
+            
             <pb n="2" facs="http://www.tapasproject.org/sites/default/files/1523934457/support_files/08Aug1911b.jpg"/><!-- 08Aug1911b.jpg -->
         </body>
     </text>
