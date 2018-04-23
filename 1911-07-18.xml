@@ -67,7 +67,7 @@
                     <name>Hull's Cove Maine</name>
                     <date when="1911-07-18">July 18" 1911</date>
                 </dateline>
-                <salute>My dear <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_edith_abbott">Miss Abbott</persName></salute>
+                <salute>My dear <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_edith_abbott">Miss Abbott</persName></salute>
             </opener>
             <p>I don’t suppose that 
                 you have such a paragon 
@@ -77,7 +77,7 @@
                 because if you had, it would 
                 be such a triumph to 
                 Chicago.</p>
-            <p>Will you proudly cherish 
+            <p>Will you <unclear reason="illegible" cert="medium" resp="#ch">proudly cherish</unclear> 
                 my copies of the Report 
                 on Woman and Child</p>
             
@@ -85,19 +85,19 @@
             <pb n="3" facs="http://www.tapasproject.org/sites/default/files/1524449161/support_files/1911Jul18c.jpg"/><!-- 1911Jul18c.jpg -->
             
             <p>Wage Earners in the U.S.A. 
-                as fast as they come to <placeName>H. H.</placeName> <!-- add xml:id when annotations file is ready CH -->
+                as fast as they come to <placeName ref="/sites/default/files/1524486624/tei/Annotations.xml#place_hull_house">H. H.</placeName>
                 Otherwise I am afraid I will 
-                never be there. I do think 
+                never use them. I do think 
                 that volume V is pretty <unclear reason="illegible" cert="high" resp="#eb">nice</unclear>.</p>
             <p>How are you standing the 
                 heat. I do wish some of you 
                 would come to this beautiful 
                 spot. With love to Miss 
-                <persName>Breckinridge</persName><!-- Add xml:id when annotation file is finished -->. </p>
+                <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_sophonisba_breckinridge">Breckinridge</persName>. </p>
             <closer>
                 <salute> Always affectionately yours </salute>
                 <signed>
-                    <persName>Jane Addams.</persName><!-- add xml:id when annotations file is finished -->
+                    <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_jane_addams">Jane Addams.</persName>
                 </signed>
             </closer>
             
