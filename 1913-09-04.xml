@@ -16,7 +16,7 @@
                     <name xml:id="sl">Seolha Lee</name>
                     <name xml:id="rt">Rosamond Thalken</name>
                 </editor>
-
+                
             </titleStmt>
             <publicationStmt>
                 <publisher>
@@ -62,7 +62,7 @@
     <text>
         <body>
             <pb n="1" facs="http://www.tapasproject.org/sites/default/files/1524449638/support_files/1913Sep04a.jpg"/><!-- 04Sep1913a.jpg -->
-
+            
             <opener>
                 <handShift new="#h1"/>
                 <dateline>
@@ -70,32 +70,32 @@
                     <name>Bar Harbor, Maine.</name>
                 </dateline>
                 <salute><handShift new="h2"/>My dear <persName
-                        ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_edith_abbott"
-                        >Miss Abbott</persName>,</salute>
+                    ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_edith_abbott"
+                    >Miss Abbott</persName>,</salute>
             </opener>
             <p>Will you make another effort to come to see us and if possible in any way bring your
                 sister!</p>
-
+            
             <p>Our September guests have <gap reason="illegible" resp="#ch"/>. At least <unclear
-                    reason="illegible" cert="medium" resp="#ch">two</unclear> of them &#8212; so that
+                reason="illegible" cert="medium" resp="#ch">two</unclear> of them &#8212; so that
                 we have plenty of room and want you very much indeed. 
                 
                 <pb n="2" facs="http://www.tapasproject.org/sites/default/files/1524449681/support_files/1913Sep04b.jpg"/><!-- 04Sep1913b.jpg -->
                 
                 Please do <gap reason="illegible" resp="#ch"></gap> for a few days before Sept. 20. </p>
-            <p>Mary <gap reason="illegible" resp="#ch"/> and <persName>Mrs <unclear reason="illegible" cert="high" resp="rt">Bowen</unclear></persName> send their love to you as
+            <p><persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_mary-rozet-smith">Mary Smith</persName> and <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_louise_bowen">Mrs <unclear reason="illegible" cert="high" resp="rt">Bowen</unclear></persName> send their love to you as
                 does your devotedly</p>
-
-
-
+            
+            
+            
             <closer>
                 <signed>
-                    <persName>Jane Addams.</persName>
+                    <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_jane_addams">Jane Addams.</persName>
                 </signed>
                 <date when="1913-09-04">Sept 4th 1913</date>
             </closer>
-
-
+            
+            
         </body>
     </text>
 </TEI>

@@ -81,8 +81,9 @@
             <p>absolutely ashamed to be in this cool place. </p>
             <p>I am enclosing a letter from <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_evelyn_shankle">Mrs Shankle</persName> received today. She is attractive in spite of all her queerness. Don't bother to read it if you are busy.</p>
             
+            <salute> Always affectionately yours. </salute>
+            
             <closer>
-                <salute> Always affectionately yours. </salute>
                 <signed>
                     <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_jane_addams">Jane Addams</persName>
                 </signed> 

@@ -16,7 +16,7 @@
                     <name xml:id="sl">Seolha Lee</name>
                     <name xml:id="rt">Rosamond Thalken</name>
                 </editor>
-                                
+                
             </titleStmt>
             <publicationStmt>
                 <publisher>
@@ -61,8 +61,8 @@
     </teiHeader>
     <text>
         <body>
-            <pb n="1" facs="19Aug1913a.jpg"/>
-           
+            <pb n="1" facs="http://www.tapasproject.org/sites/default/files/1524489891/support_files/1913Aug19a.jpg"/><!-- 19Aug1913a.jpg -->
+            
             <opener>
                 <handShift new="#h3"/>
                 <dateline>
@@ -70,33 +70,33 @@
                     <date when="1913-08-19">August 19" 1913</date>
                 </dateline>
                 
-                <salute>My dear <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_edith_abbott">Miss Abbott</persName>,</salute>
+                <salute>My dear <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_edith_abbott">Miss Abbott</persName>,</salute>
             </opener>
             <p>We did not talk about the <choice><orig>inclosed</orig><reg>enclosed</reg></choice> clipping after all, but we must do it when you come up. I do hope that you and your sister are coming, it is worth making a real effort to <unclear reason="illegible" cert="high" resp="#ch">see</unclear> all of this beauty. We are going to be fuller in Sept. than in Aug. So please bring up “<gap reason="illegible" resp="#ch"/>. Abbott” as soon as she arrives. </p>
-                <p><persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_mary_mcdowell">Mary McDowell</persName> is resting 
+            <p><persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_mary_mcdowell">Mary McDowell</persName> is resting 
                 
-                    <pb n="2" facs="19Aug1913b.jpg"/>
-                    <pb n="3" facs="19Aug1913c.jpg"/>
-                    
-                    and sleeping as is <gap reason="illegible" resp="#rt"/> have the servants.</p>
-                    
-                   <p>It was fine to see you in Barton but I want the <gap reason="illegible" resp="#ch"/> to continue!</p>
-                    
-                    <p><persName>Mary</persName> <gap reason="illegible" resp="#ch"/> and <persName>Mrs <unclear reason="illegible" cert="high" resp="rt">Bowen</unclear></persName> send their love and many hospitable wishes.</p>
-                   
-           
+                <pb n="2" facs="http://www.tapasproject.org/sites/default/files/1524489891/support_files/1913Aug19a.jpg"/><!-- 19Aug1913b.jpg -->
+                <pb n="3" facs="http://www.tapasproject.org/sites/default/files/1524489926/support_files/1913Aug19c.jpg"/><!-- 19Aug1913c.jpg -->
+                
+                and sleeping as is <gap reason="illegible" resp="#rt"/> have the servants.</p>
+            
+            <p>It was fine to see you in Barton but I want the <gap reason="illegible" resp="#ch"/> to continue!</p>
+            
+            <p><persName>Mary</persName> <gap reason="illegible" resp="#ch"/> and <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_louise_bowen">Mrs <unclear reason="illegible" cert="high" resp="rt">Bowen</unclear></persName> send their love and many hospitable wishes.</p>
+            
+            
             <closer>
                 <salute> Always devotedly yours </salute>
                 <signed>
-                    <persName>Jane Addams.</persName>
+                    <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_jane_addams">Jane Addams.</persName>
                 </signed>
             </closer>
             <postscript>
                 <p>PS.</p>
                 <p>This pencil is due to outdoor writing.</p>
             </postscript>
-                
-            <pb n="4" facs="19Aug1913d.jpg"/>
+            
+            <pb n="4" facs="http://www.tapasproject.org/sites/default/files/1524489932/support_files/1913Aug19d.jpg"/><!-- 19Aug1913d.jpg -->
         </body>
     </text>
 </TEI>

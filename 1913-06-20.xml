@@ -16,7 +16,7 @@
                     <name xml:id="sl">Seolha Lee</name>
                     <name xml:id="rt">Rosamond Thalken</name>
                 </editor>
-                                
+                
             </titleStmt>
             <publicationStmt>
                 <publisher>
@@ -62,7 +62,7 @@
     <text>
         <body>
             <pb n="1" facs="http://www.tapasproject.org/sites/default/files/1524449338/support_files/1913June20a.jpg"/><!-- 20Jun1913a.jpg -->
-           
+            
             <opener>
                 <handShift new="#h1"/>
                 <dateline>
@@ -71,21 +71,21 @@
                     <name>Burger &#38; Wonke directeurs</name>
                     
                 </dateline>
-                <salute><handShift new="h3"/>Dear <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_edith_abbott">Miss Abbott</persName>,</salute>
+                <salute><handShift new="h3"/>Dear <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_edith_abbott">Miss Abbott</persName>,</salute>
             </opener>
             <p>I was most grateful for the clippings, and felt much more free when called upon to explain the <unclear reason="illegible" cert="medium" resp="#ch">letters</unclear>, as I am constantly. </p>
             <p>We are having a very <unclear cert="medium" resp="#ch">imposing</unclear> convention, what<gap reason="illegible" resp="#ch"/> for <gap reason="illegible" resp="#ch"/> the city it is said. </p>
-                <p>I will be home I hope July 3d, so here's to you until then!
+            <p>I will be home I hope July 3d, so here's to you until then!
             </p>
-           
+            <salute> Always <unclear reason="illegible" resp="#ch">yrs</unclear> </salute>
+            
             <closer>
-                <salute> Always <unclear reason="illegible" resp="#ch">yrs</unclear> </salute>
                 <signed>
-                    <persName>Jane Addams</persName>
-                    <date when="1913-06-20">June 20" 1913</date>
+                    <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_jane_addams">Jane Addams</persName>
                 </signed>
             </closer>
-
+            
+            <closer><date when="1913-06-20">June 20" 1913</date></closer>
             <pb n="2" facs="http://www.tapasproject.org/sites/default/files/1524449387/support_files/1913June20b.jpg"/><!-- 20Jun1913b.jpg -->
         </body>
     </text>

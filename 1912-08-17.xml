@@ -81,8 +81,10 @@
                 will plan stay for the
                 month.
             </p>
+            
+            <salute> Always affectionately yours</salute>
+            
             <closer>
-                <salute> Always affectionately yours</salute>
                 <signed>
                     <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_jane_addams">Jane Addams</persName>
                 </signed>
