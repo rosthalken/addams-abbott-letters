@@ -80,37 +80,37 @@
                     <handShift new="#h3"/>
                     <date when="1913-03-19">March 19" 1913</date>
                 </dateline>
-                <salute>My dear <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_edith_abbott">Miss Abbott</persName></salute>
+                <salute>My dear <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_edith_abbott">Miss Abbott</persName></salute>
             </opener>
             <p>
                 We are perfectly entranced 
-                with <event ref="/sites/default/files/1523819227/tei/Annotations.xml#event_trip_egypt">Upper Egypt</label>. It
-                isn't too warm and it is the 
-                most picturesque place in the 
-                world. I am sending <unclear reason="illegible" cert="medium" resp="#sl">you</unclear> the two old  
-                methods of <persName>Miss Johnson</persName> which of course
-                you know, but these wonderful things
-                the English are doing in reclaiming 
-                the land give me new thoughts on
-                the Imperialistic schemes in spite 
-                <cb/>
-                of the Indians <unclear reason="illegible" cert="medium" resp="#sl">which for your use</unclear>
-                and which I read on the way with
-                the purest interest.</p> 
+                with <name ref="/sites/default/files/1524486624/tei/Annotations.xml#event_trip_egypt">Upper Egypt</name>. It
+                    isn't too warm and it is the 
+                    most picturesque place in the 
+                    world. I am sending <unclear reason="illegible" cert="medium" resp="#sl">you</unclear> the two old  
+                    methods of Miss Johnson which of course
+                    you know, but these wonderful things
+                    the English are doing in reclaiming 
+                    the land give me new thoughts on
+                    the Imperialistic schemes in spite 
+                    <cb/>
+                    of the Indians <unclear reason="illegible" cert="medium" resp="#sl">which for your use</unclear>
+                    and which I read on the way with
+                    the purest interest.</p> 
             <p>Will you please excuse this
-                penciled note, and <gap reason="illegible" resp="#sl"/> <unclear reason="illegible" cert="medium" resp="#sl">use</unclear></p>
+                penciled note, and believe me</p>
             <closer>
                 <salute> Always devotedly yours</salute>
                 <signed>
-                    <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_jane_addams">Jane Addams</persName>
+                    <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_jane_addams">Jane Addams</persName>
                 </signed>
             </closer>
             <postscript>
                 <label>P.S.</label>
                 <p>We are delayed here for several 
-                days any how <unclear reason="illegible" cert="low" resp="#sl">us thyme <gap reason="illegible" resp="#sl"/> of 
-                <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_mary-rozet-smith">Mary's</persName>. but it an interesting spot
-                to see with its <gap reason="illegible" resp="#sl"/> <gap reason="illegible" resp="#sl"/>.</p>
+                    days <unclear reason="illegible" cert="low" resp="#sl">any how </unclear><gap reason="illegible" resp="#sl"/> of 
+                        <persName ref="/sites/default/files/1524486624/tei/Annotations.xml#pers_mary-rozet-smith">Mary's</persName>. but it an interesting spot
+                        to see with its <gap reason="illegible" resp="#sl"/> <gap reason="illegible" resp="#sl"/>.</p>
             </postscript>
             <pb n="2" facs="http://www.tapasproject.org/sites/default/files/1524449482/support_files/1913Mar19b.jpg"/><!-- 1913Mar19b.jpg -->
         </body> 
