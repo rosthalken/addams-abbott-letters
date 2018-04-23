@@ -61,7 +61,7 @@
     </teiHeader>
     <text>
         <body>
-            <pb n="1" facs="1913Mar19a.jpg"/>
+            <pb n="1" facs="http://www.tapasproject.org/sites/default/files/1524449419/support_files/1913Mar19a.jpg"/> <!-- 1913Mar19a.jpg -->
             
             <opener>
                 <handShift new="#h1"/>
@@ -84,7 +84,7 @@
             </opener>
             <p>
                 We are perfectly entranced 
-                with <label ref="/sites/default/files/1523819227/tei/Annotations.xml#event_trip_egypt">Upper Egypt</label>. It
+                with <event ref="/sites/default/files/1523819227/tei/Annotations.xml#event_trip_egypt">Upper Egypt</label>. It
                 isn't too warm and it is the 
                 most picturesque place in the 
                 world. I am sending <unclear reason="illegible" cert="medium" resp="#sl">you</unclear> the two old  
@@ -112,7 +112,7 @@
                 <persName ref="/sites/default/files/1523819227/tei/Annotations.xml#pers_mary-rozet-smith">Mary's</persName>. but it an interesting spot
                 to see with its <gap reason="illegible" resp="#sl"/> <gap reason="illegible" resp="#sl"/>.</p>
             </postscript>
-            <pb n="2" facs="1913Mar19b.jpg"/>
+            <pb n="2" facs="http://www.tapasproject.org/sites/default/files/1524449482/support_files/1913Mar19b.jpg"/><!-- 1913Mar19b.jpg -->
         </body> 
     </text>
 </TEI>
